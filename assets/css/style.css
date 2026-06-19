@@ -1,0 +1,64 @@
+@font-face {
+  font-family: "Indivisa Text Sans-Regular";
+  src: url("https://makerspace-amiens.fr/assets/fonts/Indivisa%20Text%20Sans-Regular.ttf");
+  font-display: swap;
+}
+
+html,
+body,
+button,
+input,
+select,
+textarea {
+  font-family: "Indivisa Text Sans-Regular", sans-serif;
+}
+
+:root {
+  --bulma-primary-h: 359.1deg;
+  --bulma-primary-s: 85.8%;
+  --bulma-primary-l: 55.9%;
+  --bulma-primary-invert-l: 100%;
+  --bulma-link-h: 359.1deg;
+  --bulma-link-s: 85.8%;
+  --bulma-link-l: 55.9%;
+  --bulma-link-invert-l: 100%;
+}
+
+.project-card[hidden] {
+  display: none !important;
+}
+
+.project-card .card {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+}
+
+.project-card .card-content {
+  flex-grow: 1;
+}
+
+#back-to-top {
+  position: fixed;
+  bottom: 1.5rem;
+  right: 1.5rem;
+  width: 2.75rem;
+  height: 2.75rem;
+  border: none;
+  border-radius: 50%;
+  background-color: #ef2e31;
+  color: #fff;
+  font-size: 1.25rem;
+  line-height: 1;
+  cursor: pointer;
+  box-shadow: 0 0.25em 0.75em rgba(0, 0, 0, 0.2);
+  z-index: 30;
+}
+
+#back-to-top:hover {
+  background-color: #cc1f22;
+}
+
+#back-to-top[hidden] {
+  display: none !important;
+}

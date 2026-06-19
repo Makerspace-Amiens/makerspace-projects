@@ -1,0 +1,18 @@
+title: Projets Makerspace Amiens
+description: Catalogue des projets étudiants du Makerspace UniLaSalle Amiens
+baseurl: ""
+url: ""
+
+organizations:
+  - Makerspace-Amiens-2023-24
+  - Makerspace-Amiens-2024-25
+  - Makerspace-Amiens-2025-26
+
+exclude:
+  - scripts
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+
+plugins:
+  - jekyll-feed

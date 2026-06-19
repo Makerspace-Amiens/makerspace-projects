@@ -1,0 +1,286 @@
+# Projets ajoutés à la main (pas dans une des organisations GitHub scannées
+# automatiquement, ex: projet hébergé ailleurs, organisation différente...).
+# Ce fichier n'est jamais touché par scripts/fetch-projects.js, tu peux
+# l'éditer librement et committer.
+#
+# Champs obligatoires : year, display_name, repo_url
+# Champs optionnels   : org, description, pages_url, image_url
+#
+# Exemple :
+# - year: "2022-23"
+#   org: Autre organisation
+#   display_name: Mon Projet
+#   description: Une courte description du projet.
+#   repo_url: https://github.com/exemple/mon-projet
+#   pages_url: https://exemple.github.io/mon-projet/
+#   image_url: https://exemple.github.io/mon-projet/cover.png
+- year: 2023-24
+  org: ITEC I2
+  display_name: 01 - Base cuisine
+  description: Projet ITEC – Modèle 3D
+  repo_url: https://thangs.com/designer/Projet%20ITEC%202ème%20Année%20UniLaSalle/3d-model/base%20cuisine%20.stl-996428
+  image_url: /assets/screenshots/itec-i2__01-base-cuisine.png
+- year: 2023-24
+  org: ITEC I2
+  display_name: 02 - Local électrique
+  description: Projet ITEC – Modèle 3D
+  repo_url: https://thangs.com/designer/Projet%20ITEC%202ème%20Année%20UniLaSalle/3d-model/Local%20élec-996110
+  image_url: /assets/screenshots/itec-i2__02-local-electrique.png
+- year: 2023-24
+  org: ITEC I2
+  display_name: 03 - Support cellule photovoltaïque
+  description: Projet ITEC – Modèle 3D
+  repo_url: >-
+    https://thangs.com/designer/Projet%20ITEC%202ème%20Année%20UniLaSalle/3d-model/Support%20pour%20mini%20cellule%20photovoltaïque-996102
+  image_url: /assets/screenshots/itec-i2__03-support-cellule-photovoltaique.png
+- year: 2023-24
+  org: ITEC I2
+  display_name: 04 - Éolienne
+  description: Projet ITEC – Modèle 3D
+  repo_url: https://thangs.com/designer/Projet%20ITEC%202ème%20Année%20UniLaSalle/3d-model/Eolienne-996098
+  image_url: /assets/screenshots/itec-i2__04-eolienne.png
+- year: 2023-24
+  org: ITEC I2
+  display_name: 05 - Ukulélé
+  description: Projet ITEC – Modèle 3D
+  repo_url: https://thangs.com/designer/Eloi%20DILLIES/3d-model/Ukulélé_Projet_ITEC_2024-994723
+  image_url: /assets/screenshots/itec-i2__05-ukulele.png
+- year: 2023-24
+  org: ITEC I2
+  display_name: 06 - Scène de théâtre
+  description: Projet ITEC – Modèle 3D
+  repo_url: https://thangs.com/designer/Alexandre%20Daurat%20I2%20ITEC/3d-model/Scène%20de%20théâtre-996435
+  image_url: /assets/screenshots/itec-i2__06-scene-de-theatre.png
+- year: 2023-24
+  org: ITEC I2
+  display_name: 07 - Mini serre
+  description: Projet ITEC – Modèle 3D
+  repo_url: https://thangs.com/designer/Emrick.D/3d-model/Mini%20Serre-994640
+  image_url: /assets/screenshots/itec-i2__07-mini-serre.png
+- year: 2023-24
+  org: ITEC I2
+  display_name: 08 - UniSupport
+  description: Projet ITEC – Modèle 3D
+  repo_url: https://thangs.com/designer/flobmx65/3d-model/UniSupport-991038
+  image_url: /assets/screenshots/itec-i2__08-unisupport.png
+- year: 2023-24
+  org: ITEC I2
+  display_name: 09 - Échiquier pliable
+  description: Projet ITEC – Modèle 3D
+  repo_url: https://thangs.com/designer/Robin%20verhaeghe/3d-model/échiquier%20pliable%20finale-994094
+  image_url: /assets/screenshots/itec-i2__09-echiquier-pliable.png
+- year: 2023-24
+  org: ITEC I2
+  display_name: 10 - Jeu de basketball
+  description: Projet ITEC – Modèle 3D
+  repo_url: https://thangs.com/designer/hugo.champy/3d-model/Jeu%20de%20Basketball-991115
+  image_url: /assets/screenshots/itec-i2__10-jeu-de-basketball.png
+- year: 2023-24
+  org: ITEC I2
+  display_name: 11 - Distributeur de bonbons
+  description: Projet ITEC – Modèle 3D
+  repo_url: https://thangs.com/designer/MathieuPion/3d-model/Distributeur%20de%20bonbon.stl-994613
+  image_url: /assets/screenshots/itec-i2__11-distributeur-de-bonbons.png
+- year: 2023-24
+  org: ITEC I2
+  display_name: 12 - Presse à inserts
+  description: Projet ITEC – Modèle 3D
+  repo_url: https://thangs.com/designer/Aurélien%20V/3d-model/Presse%20à%20inserts%20à%20balancier%20réglable.-994273
+  image_url: /assets/screenshots/itec-i2__12-presse-a-inserts.png
+- year: 2023-24
+  org: ITEC I2
+  display_name: 13 - Profil designer
+  description: Profil Thangs
+  repo_url: https://thangs.com/designer/Cordier%20Solène
+  image_url: /assets/screenshots/itec-i2__13-profil-designer.png
+- year: 2023-24
+  org: ITEC I2
+  display_name: 14 - Support de téléphone
+  description: Projet ITEC – Modèle 3D
+  repo_url: https://thangs.com/designer/Jules%20Dufossé/3d-model/Support%20de%20Téléphone%20Articulé-994615
+  image_url: /assets/screenshots/itec-i2__14-support-de-telephone.png
+- year: 2023-24
+  org: ITEC I2
+  display_name: 15 - Fauteuil roulant neige
+  description: Projet ITEC – Modèle 3D
+  repo_url: https://thangs.com/designer/ArthurTom/3d-model/Fauteuil%20roulant%20sur%20neige-994608
+  image_url: /assets/screenshots/itec-i2__15-fauteuil-roulant-neige.png
+- year: 2023-24
+  org: ITEC I2
+  display_name: 16 - Générateur triphasé
+  description: Projet ITEC – Modèle 3D
+  repo_url: https://thangs.com/designer/jules.carpentier2004/3d-model/Générateur%20triphasé-994598
+  image_url: /assets/screenshots/itec-i2__16-generateur-triphase.png
+- year: 2023-24
+  org: ITEC I2
+  display_name: 17 - Marble Run
+  description: Projet ITEC – Modèle 3D
+  repo_url: https://thangs.com/designer/gauthier.gomel/3d-model/Marble%20Runilasalle-993717
+  image_url: /assets/screenshots/itec-i2__17-marble-run.png
+- year: 2023-24
+  org: ITEC I2
+  display_name: 18 - Distributeur de croquettes
+  description: Projet ITEC – Modèle 3D
+  repo_url: https://thangs.com/designer/Alexia_Lfb/3d-model/Distributeur%20de%20croquettes-994262
+  image_url: /assets/screenshots/itec-i2__18-distributeur-de-croquettes.png
+- year: 2023-24
+  org: ITEC I2
+  display_name: 19 - Horloge d'intérieur
+  description: Projet ITEC – Modèle 3D
+  repo_url: https://thangs.com/designer/AntoineLaD/3d-model/Horloge%20d%27intérieur-994607
+  image_url: /assets/screenshots/itec-i2__19-horloge-d-interieur.png
+- year: 2023-24
+  org: ITEC I2
+  display_name: 20 - Grande roue
+  description: Projet ITEC – Modèle 3D
+  repo_url: https://thangs.com/designer/MaxMallevays/3d-model/Grande%20roue-994606
+  image_url: /assets/screenshots/itec-i2__20-grande-roue.png
+- year: 2023-24
+  org: ITEC I2
+  display_name: 21 - Mechanical counter
+  description: Projet ITEC – Modèle 3D
+  repo_url: https://thangs.com/designer/CLuap/3d-model/Mechanical%20counter-994890
+  image_url: /assets/screenshots/itec-i2__21-mechanical-counter.png
+- year: 2023-24
+  org: ITEC I2
+  display_name: 22 - Moteur en étoile
+  description: Projet ITEC – Modèle 3D
+  repo_url: https://thangs.com/designer/Gaëtan%20SUCH/3d-model/moteur%20en%20etoile-994611?manualModelView=true&source=Recent
+  image_url: /assets/screenshots/itec-i2__22-moteur-en-etoile.png
+- year: 2023-24
+  org: ITEC I2
+  display_name: 23 - Tirelire casse-tête
+  description: Projet ITEC – Modèle 3D
+  repo_url: https://thangs.com/designer/J.N/3d-model/Tirelire%20Casse-tête%20UniLaSalle-994046
+  image_url: /assets/screenshots/itec-i2__23-tirelire-casse-tete.png
+- year: 2023-24
+  org: ITEC I2
+  display_name: 24 - Profil designer
+  description: Profil Thangs
+  repo_url: https://thangs.com/designer/timotebiget
+  image_url: /assets/screenshots/itec-i2__24-profil-designer.png
+- year: 2023-24
+  org: ITEC I2
+  display_name: 25 - Kit pédagogique
+  description: Projet ITEC – Modèle 3D
+  repo_url: https://thangs.com/designer/KOUNDA%20LEKOU%20Elsy/3d-model/Kit%20pedagogique-994775
+  image_url: /assets/screenshots/itec-i2__25-kit-pedagogique.png
+- year: 2023-24
+  org: ITEC I2
+  display_name: 26 - Moulin
+  description: Projet ITEC – Modèle 3D
+  repo_url: https://thangs.com/designer/Charles.L/3d-model/Moulin-996114
+  image_url: /assets/screenshots/itec-i2__26-moulin.png
+- year: 2023-24
+  org: ITEC I2
+  display_name: 27 - FlexiHold
+  description: Projet ITEC – Modèle 3D
+  repo_url: https://thangs.com/designer/yass/3d-model/FlexiHold-994085
+  image_url: /assets/screenshots/itec-i2__27-flexihold.png
+- year: 2023-24
+  org: ITEC I2
+  display_name: 28 - Page projets ITEC I2
+  description: Présentation des projets ITEC 2024
+  repo_url: https://unimakers.fr/ITEC-2024-I2/
+  image_url: /assets/screenshots/itec-i2__28-page-projets-itec-i2.png
+- year: 2023-24
+  org: ITEC I2
+  display_name: 29 - Fontaine à jet laminaire
+  description: Projet ITEC – Modèle 3D
+  repo_url: https://thangs.com/designer/hubertleroy1521/3d-model/Fontaine%20à%20jet%20laminaire%20-1007028
+  image_url: /assets/screenshots/itec-i2__29-fontaine-a-jet-laminaire.png
+- year: 2024-25
+  org: Initiation Prototypage I1
+  display_name: 01 - Bedside lamp
+  description: Projet Printables – Modèle 3D
+  repo_url: https://www.printables.com/model/1075642-bedside-lamp-design-concept
+- year: 2024-25
+  org: Initiation Prototypage I1
+  display_name: 02 - The secret room
+  description: Projet Printables – Modèle 3D
+  repo_url: https://www.printables.com/model/1076833-the-secret-room
+- year: 2024-25
+  org: Initiation Prototypage I1
+  display_name: 03 - Candy dispenser
+  description: Projet Printables – Modèle 3D
+  repo_url: https://www.printables.com/model/1071916-candy-dispenser
+- year: 2024-25
+  org: Initiation Prototypage I1
+  display_name: 04 - Sip'n'Ride
+  description: Projet Printables – Modèle 3D
+  repo_url: https://www.printables.com/model/1071907-sipnride
+- year: 2024-25
+  org: Initiation Prototypage I1
+  display_name: 05 - Switch wheel
+  description: Projet Printables – Modèle 3D
+  repo_url: https://www.printables.com/model/1077050-switch-wheel
+- year: 2024-25
+  org: Initiation Prototypage I1
+  display_name: 06 - Game board
+  description: Projet Printables – Modèle 3D
+  repo_url: https://www.printables.com/model/1077648-game-board
+- year: 2024-25
+  org: Initiation Prototypage I1
+  display_name: 07 - Toothbrush tree
+  description: Projet Printables – Modèle 3D
+  repo_url: https://www.printables.com/model/1071908-toothbrush-tree
+- year: 2024-25
+  org: Initiation Prototypage I1
+  display_name: 08 - Articulating lamp arm
+  description: Projet Printables – Modèle 3D
+  repo_url: https://www.printables.com/model/1077318-articulating-lamp-arm-with-desk-clamp
+- year: 2024-25
+  org: Initiation Prototypage I1
+  display_name: 09 - Beacon point
+  description: Projet Printables – Modèle 3D
+  repo_url: https://www.printables.com/model/1073805-beacon-point
+- year: 2024-25
+  org: Initiation Prototypage I1
+  display_name: 10 - Screw sorter M4
+  description: Projet Printables – Modèle 3D
+  repo_url: https://www.printables.com/model/1071887-screw-sorter-m4
+- year: 2024-25
+  org: Initiation Prototypage I1
+  display_name: 11 - Mini babyfoot
+  description: Projet Printables – Modèle 3D
+  repo_url: https://www.printables.com/model/1071889-mini-babyfoot
+- year: 2024-25
+  org: Initiation Prototypage I1
+  display_name: 12 - Bicycle bottle holder
+  description: Projet Printables – Modèle 3D
+  repo_url: https://www.printables.com/model/1076793-bicycle-bottle-holder
+- year: 2024-25
+  org: Initiation Prototypage I1
+  display_name: 13 - Induction hotplate support
+  description: Projet Printables – Modèle 3D
+  repo_url: https://www.printables.com/model/1071886-induction-hotplate-support-for-blindness-people
+- year: 2024-25
+  org: Initiation Prototypage I1
+  display_name: 14 - Mechanical gripper
+  description: Projet Printables – Modèle 3D
+  repo_url: https://www.printables.com/model/1071883-mechanical-gripper
+- year: 2024-25
+  org: Initiation Prototypage I1
+  display_name: 15 - Modular drawer
+  description: Projet Printables – Modèle 3D
+  repo_url: https://www.printables.com/model/1077585-modular_drawer
+- year: 2024-25
+  org: Initiation Prototypage I1
+  display_name: 16 - Custom Switch dock
+  description: Projet Printables – Modèle 3D
+  repo_url: https://www.printables.com/model/1071953-custom-dock-swicth
+- year: 2024-25
+  org: Initiation Prototypage I1
+  display_name: 17 - ALT + F4 key
+  description: Projet Printables – Modèle 3D
+  repo_url: https://www.printables.com/model/1077485-alt-f4-key
+- year: 2024-25
+  org: Initiation Prototypage I1
+  display_name: 18 - Cat kibble dispenser
+  description: Projet Printables – Modèle 3D
+  repo_url: https://www.printables.com/model/1068733-cat-kibble-dispenser
+- year: 2024-25
+  org: Initiation Prototypage I1
+  display_name: 19 - Le verre de trop
+  description: Projet Printables – Modèle 3D
+  repo_url: https://www.printables.com/model/1075655-le-verre-de-trop

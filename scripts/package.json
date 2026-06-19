@@ -1,0 +1,9 @@
+{
+  "name": "fetch-projects",
+  "private": true,
+  "version": "1.0.0",
+  "dependencies": {
+    "js-yaml": "^4.1.0",
+    "playwright": "^1.61.0"
+  }
+}

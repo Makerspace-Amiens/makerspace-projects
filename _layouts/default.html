@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="fr" data-theme="light">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{ page.title | default: site.title }}</title>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@1.0.2/css/bulma.min.css">
+  <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+</head>
+<body>
+  <section class="hero is-primary">
+    <div class="hero-body">
+      <p class="title">{{ site.title }}</p>
+      <p class="subtitle">{{ site.description }}</p>
+    </div>
+  </section>
+  <main class="section">
+    <div class="container">
+      {{ content }}
+    </div>
+  </main>
+  <footer class="footer">
+    <div class="content has-text-centered">
+      <p>Liste générée automatiquement depuis les organisations GitHub du Makerspace.</p>
+    </div>
+  </footer>
+
+  <button type="button" id="back-to-top" aria-label="Remonter en haut de la page" hidden>↑</button>
+  <script src="{{ '/assets/js/back-to-top.js' | relative_url }}"></script>
+</body>
+</html>
