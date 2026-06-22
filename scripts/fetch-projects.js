@@ -51,15 +51,14 @@ async function fetchAllRepos(org) {
   return repos;
 }
 
-// "Puzzle-Bot-Groupe01" -> { project: "Puzzle-Bot", group: "01", display: "Puzzle Bot - Groupe 01" }
+// "Puzzle-Bot-Groupe01" -> { group: "01", display: "Puzzle Bot - Groupe 01" }
 function parseRepoName(name) {
-  const match = name.match(/^(.+)-Groupe(\d+)$/i);
-  if (!match) {
-    return { project: name, group: null, display: name.replace(/-/g, " ") };
+  const groupMatch = name.match(/^(.+)-Groupe(\d+)$/i);
+  if (!groupMatch) {
+    return { group: null, display: name.replace(/-/g, " ") };
   }
-  const [, project, group] = match;
+  const [, project, group] = groupMatch;
   return {
-    project,
     group,
     display: `${project.replace(/-/g, " ")} - Groupe ${group}`,
   };
@@ -80,7 +79,7 @@ async function main() {
       if (repo.name.toLowerCase() === `${org.toLowerCase()}.github.io`) continue;
       if (repo.archived) continue;
 
-      const { project, group, display } = parseRepoName(repo.name);
+      const { group, display } = parseRepoName(repo.name);
       const pagesUrl = repo.has_pages
         ? `https://${org.toLowerCase()}.github.io/${repo.name}/`
         : null;
@@ -90,7 +89,6 @@ async function main() {
         org,
         year,
         name: repo.name,
-        project,
         group,
         display_name: display,
         description: repo.description || null,

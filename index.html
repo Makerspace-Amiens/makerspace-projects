@@ -9,7 +9,13 @@ title: Projets Makerspace Amiens
 {% assign all_projects = site.data.projects %}
 {% endif %}
 {% assign years = all_projects | map: "year" | compact | uniq | sort %}
-{% assign project_types = all_projects | map: "project" | compact | uniq | sort %}
+{% assign topics = "" | split: "" %}
+{% for project in all_projects %}
+  {% if project.topics %}
+    {% assign topics = topics | concat: project.topics %}
+  {% endif %}
+{% endfor %}
+{% assign topics = topics | uniq | sort %}
 
 <div class="field is-grouped is-grouped-multiline mb-5">
   <div class="control is-expanded">
@@ -25,27 +31,35 @@ title: Projets Makerspace Amiens
       </select>
     </div>
   </div>
+  {% if topics.size > 0 %}
   <div class="control">
     <div class="select">
-      <select id="project-filter" aria-label="Filtrer par type de projet">
-        <option value="">Tous les projets</option>
-        {% for p in project_types %}
-        <option value="{{ p }}">{{ p | replace: '-', ' ' }}</option>
+      <select id="topic-filter" aria-label="Filtrer par tag">
+        <option value="">Tous les tags</option>
+        {% for topic in topics %}
+        <option value="{{ topic }}">{{ topic }}</option>
         {% endfor %}
       </select>
     </div>
   </div>
+  {% endif %}
   <div class="control">
     <span class="tag is-light is-medium" id="result-count"></span>
+  </div>
+  <div class="control">
+    <div class="buttons has-addons mb-0" id="view-switcher" role="group" aria-label="Mode d'affichage">
+      <button type="button" class="button is-small is-primary" data-view="grid" aria-pressed="true">Grille</button>
+      <button type="button" class="button is-small" data-view="list" aria-pressed="false">Liste</button>
+      <button type="button" class="button is-small" data-view="list-image" aria-pressed="false">Liste + image</button>
+    </div>
   </div>
 </div>
 
 <div class="columns is-multiline" id="card-grid">
   {% for project in all_projects %}
-  {% assign project_type = project.project | default: project.display_name %}
   <div class="column is-one-third project-card"
        data-year="{{ project.year }}"
-       data-project="{{ project_type }}"
+       data-topics="{{ project.topics | join: ',' | downcase }}"
        data-search="{{ project.display_name | downcase }} {{ project.org | downcase }}">
     <div class="card">
       {% if project.image_url %}
@@ -63,6 +77,13 @@ title: Projets Makerspace Amiens
         {% endif %}
         {% if project.description %}
         <p class="content">{{ project.description }}</p>
+        {% endif %}
+        {% if project.topics.size > 0 %}
+        <div class="tags">
+          {% for topic in project.topics %}
+          <span class="tag is-light">{{ topic }}</span>
+          {% endfor %}
+        </div>
         {% endif %}
       </div>
       <footer class="card-footer">

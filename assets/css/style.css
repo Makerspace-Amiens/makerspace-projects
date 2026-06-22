@@ -1,19 +1,16 @@
-@font-face {
-  font-family: "Indivisa Text Sans-Regular";
-  src: url("https://makerspace-amiens.fr/assets/fonts/Indivisa%20Text%20Sans-Regular.ttf");
-  font-display: swap;
-}
-
-html,
-body,
-button,
-input,
-select,
-textarea {
-  font-family: "Indivisa Text Sans-Regular", sans-serif;
-}
+/* Google Fonts — même police que makerspace-doc */
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap");
 
 :root {
+  /* Tokens repris de makerspace-doc (palette zinc) */
+  --bg-subtle: #f4f4f5;
+  --border: #d4d4d8;
+  --fg: #18181b;
+  --fg-muted: #71717a;
+
+  --bulma-family-primary: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  --bulma-family-secondary: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+
   --bulma-primary-h: 359.1deg;
   --bulma-primary-s: 85.8%;
   --bulma-primary-l: 55.9%;
@@ -22,6 +19,37 @@ textarea {
   --bulma-link-s: 85.8%;
   --bulma-link-l: 55.9%;
   --bulma-link-invert-l: 100%;
+
+  --bulma-radius-large: 8px;
+}
+
+/* Bandeau institutionnel UniLaSalle Amiens — léger, juste le logo, pas de menu */
+.brand-banner {
+  background-color: #ffffff;
+  border-bottom: 1px solid var(--border);
+  min-height: 0;
+}
+
+.brand-banner .navbar-brand {
+  min-height: 3rem;
+}
+
+.brand-banner .navbar-item {
+  padding: 0.5rem 0.75rem;
+}
+
+/* Hero gris clair (au lieu du rouge plein Bulma) — même traitement que makerspace-doc */
+.hero.is-primary {
+  background-color: var(--bg-subtle);
+  color: var(--fg);
+}
+
+.hero.is-primary .title {
+  color: #000;
+}
+
+.hero.is-primary .subtitle {
+  color: var(--fg-muted);
 }
 
 .project-card[hidden] {
@@ -32,10 +60,93 @@ textarea {
   display: flex;
   flex-direction: column;
   height: 100%;
+  overflow: hidden;
+  --bulma-card-radius: var(--bulma-radius-large);
+  --bulma-card-shadow: 0 0 0 1px var(--border), 0 2px 6px rgba(0, 0, 0, 0.06);
 }
 
 .project-card .card-content {
   flex-grow: 1;
+}
+
+/* Fond légèrement gris derrière les vignettes pour faire ressortir les captures à fond blanc */
+.project-card .card-image {
+  background-color: var(--bg-subtle);
+}
+
+.project-card .tag,
+#result-count {
+  --bulma-tag-radius: var(--bulma-radius-rounded);
+}
+
+footer.footer {
+  background-color: var(--bg-subtle);
+  border-top: 1px solid var(--border);
+}
+
+footer.footer p {
+  color: var(--fg-muted);
+}
+
+/* Modes d'affichage : grille (défaut) / liste / liste + image */
+#card-grid.view-list .project-card,
+#card-grid.view-list-image .project-card {
+  width: 100%;
+}
+
+#card-grid.view-list .card,
+#card-grid.view-list-image .card {
+  flex-direction: row;
+  align-items: stretch;
+}
+
+#card-grid.view-list .card-image {
+  display: none;
+}
+
+#card-grid.view-list-image .card-image {
+  width: 140px;
+  flex-shrink: 0;
+}
+
+#card-grid.view-list-image .card-image .image {
+  height: 100%;
+}
+
+#card-grid.view-list-image .card-image img {
+  position: absolute;
+  inset: 0;
+  height: 100%;
+  width: 100%;
+  object-fit: cover;
+}
+
+#card-grid.view-list .card-content,
+#card-grid.view-list-image .card-content {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 0.5rem 1rem;
+  padding: 0.75rem 1rem;
+}
+
+#card-grid.view-list .card-content .content,
+#card-grid.view-list-image .card-content .content {
+  display: none;
+}
+
+#card-grid.view-list .card-content .title,
+#card-grid.view-list-image .card-content .title,
+#card-grid.view-list .card-content .subtitle,
+#card-grid.view-list-image .card-content .subtitle {
+  margin-bottom: 0;
+}
+
+#card-grid.view-list .card-footer,
+#card-grid.view-list-image .card-footer {
+  flex-shrink: 0;
+  border-top: none;
+  border-left: 1px solid var(--border);
 }
 
 #back-to-top {
@@ -51,7 +162,7 @@ textarea {
   font-size: 1.25rem;
   line-height: 1;
   cursor: pointer;
-  box-shadow: 0 0.25em 0.75em rgba(0, 0, 0, 0.2);
+  box-shadow: 0 0.20em 0.75em rgba(0, 0, 0, 0.356);
   z-index: 30;
 }
 
