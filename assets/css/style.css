@@ -231,6 +231,12 @@ html.has-navbar-fixed-top {
   background-color: var(--bg-subtle);
 }
 
+/* Recadre les vignettes au lieu de les étirer dans le cadre 16:9
+   (sinon les photos non-16:9, ex. robots, apparaissent écrasées) */
+.project-card .card-image img {
+  object-fit: cover;
+}
+
 .project-card .card-footer-item {
   color: var(--fg-strong);
   font-size: 0.875rem;
@@ -274,6 +280,8 @@ html.has-navbar-fixed-top {
 .card-tags .tag-topic[data-topic="puzzle-bot"]        { background-color: #22c55e; }
 .card-tags .tag-topic[data-topic="robotique"]         { background-color: #ec4899; }
 .card-tags .tag-topic[data-topic="dessin"]            { background-color: #6366f1; }
+.card-tags .tag-topic[data-topic="medieval-challenge"]{ background-color: #92400e; }
+.card-tags .tag-topic[data-topic="coupe-de-robotique"]{ background-color: #0891b2; }
 
 /* Couleur de repli pour tout topic non prévu */
 .card-tags .tag-topic {
