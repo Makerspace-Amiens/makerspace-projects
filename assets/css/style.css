@@ -40,6 +40,17 @@
   --bulma-navbar-height: 3.5rem;
 }
 
+/* Titres/sous-titres alignés sur makerspace-doc.
+   Bulma 1.0.2 définit --bulma-title-weight (extrabold = 800) directement sur
+   le sélecteur .title : il faut donc le redéfinir au même niveau, pas sur :root. */
+.title,
+.subtitle {
+  --bulma-title-weight: 600;
+  --bulma-title-line-height: 1.125;
+  --bulma-subtitle-weight: 400;
+  --bulma-subtitle-line-height: 1.25;
+}
+
 html {
   scroll-behavior: smooth;
   -webkit-font-smoothing: antialiased;
@@ -141,12 +152,18 @@ html.has-navbar-fixed-top {
   color: var(--fg);
 }
 
+/* Supprime le dégradé coloré que Bulma applique via .hero.is-bold
+   (sinon il recouvre le fond gris du hero) */
+.hero.is-bold:not(.has-bg-image) {
+  background-image: none !important;
+}
+
 .hero.is-primary .hero-body {
   padding: 4rem 1.5rem;
 }
 
 .hero.is-primary .title {
-  color: #000;
+  color: var(--fg);
 }
 
 .hero.is-primary .subtitle {
