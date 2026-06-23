@@ -24,14 +24,16 @@
   description: Projet ITEC – Modèle 3D
   repo_url: https://thangs.com/designer/Projet%20ITEC%202ème%20Année%20UniLaSalle/3d-model/base%20cuisine%20.stl-996428
   image_url: /assets/screenshots/itec-i2__01-base-cuisine.png
-  topics: [projet-itec]
+  topics:
+    - projet-itec
 - year: 2023-24
   org: ITEC I2
   display_name: Local électrique
   description: Projet ITEC – Modèle 3D
   repo_url: https://thangs.com/designer/Projet%20ITEC%202ème%20Année%20UniLaSalle/3d-model/Local%20élec-996110
   image_url: /assets/screenshots/itec-i2__02-local-electrique.png
-  topics: [projet-itec]
+  topics:
+    - projet-itec
 - year: 2023-24
   org: ITEC I2
   display_name: Support cellule photovoltaïque
@@ -39,548 +41,662 @@
   repo_url: >-
     https://thangs.com/designer/Projet%20ITEC%202ème%20Année%20UniLaSalle/3d-model/Support%20pour%20mini%20cellule%20photovoltaïque-996102
   image_url: /assets/screenshots/itec-i2__03-support-cellule-photovoltaique.png
-  topics: [projet-itec]
+  topics:
+    - projet-itec
 - year: 2023-24
   org: ITEC I2
   display_name: Éolienne
   description: Projet ITEC – Modèle 3D
   repo_url: https://thangs.com/designer/Projet%20ITEC%202ème%20Année%20UniLaSalle/3d-model/Eolienne-996098
   image_url: /assets/screenshots/itec-i2__04-eolienne.png
-  topics: [projet-itec]
+  topics:
+    - projet-itec
 - year: 2023-24
   org: ITEC I2
   display_name: Ukulélé
   description: Projet ITEC – Modèle 3D
   repo_url: https://thangs.com/designer/Eloi%20DILLIES/3d-model/Ukulélé_Projet_ITEC_2024-994723
   image_url: /assets/screenshots/itec-i2__05-ukulele.png
-  topics: [projet-itec]
+  topics:
+    - projet-itec
 - year: 2023-24
   org: ITEC I2
   display_name: Scène de théâtre
   description: Projet ITEC – Modèle 3D
   repo_url: https://thangs.com/designer/Alexandre%20Daurat%20I2%20ITEC/3d-model/Scène%20de%20théâtre-996435
   image_url: /assets/screenshots/itec-i2__06-scene-de-theatre.png
-  topics: [projet-itec]
+  topics:
+    - projet-itec
 - year: 2023-24
   org: ITEC I2
   display_name: Mini serre
   description: Projet ITEC – Modèle 3D
   repo_url: https://thangs.com/designer/Emrick.D/3d-model/Mini%20Serre-994640
   image_url: /assets/screenshots/itec-i2__07-mini-serre.png
-  topics: [projet-itec]
+  topics:
+    - projet-itec
 - year: 2023-24
   org: ITEC I2
   display_name: UniSupport
   description: Projet ITEC – Modèle 3D
   repo_url: https://thangs.com/designer/flobmx65/3d-model/UniSupport-991038
   image_url: /assets/screenshots/itec-i2__08-unisupport.png
-  topics: [projet-itec]
+  topics:
+    - projet-itec
 - year: 2023-24
   org: ITEC I2
   display_name: Échiquier pliable
   description: Projet ITEC – Modèle 3D
   repo_url: https://thangs.com/designer/Robin%20verhaeghe/3d-model/échiquier%20pliable%20finale-994094
   image_url: /assets/screenshots/itec-i2__09-echiquier-pliable.png
-  topics: [projet-itec]
+  topics:
+    - projet-itec
 - year: 2023-24
   org: ITEC I2
   display_name: Jeu de basketball
   description: Projet ITEC – Modèle 3D
   repo_url: https://thangs.com/designer/hugo.champy/3d-model/Jeu%20de%20Basketball-991115
   image_url: /assets/screenshots/itec-i2__10-jeu-de-basketball.png
-  topics: [projet-itec]
+  topics:
+    - projet-itec
 - year: 2023-24
   org: ITEC I2
   display_name: Distributeur de bonbons
   description: Projet ITEC – Modèle 3D
   repo_url: https://thangs.com/designer/MathieuPion/3d-model/Distributeur%20de%20bonbon.stl-994613
   image_url: /assets/screenshots/itec-i2__11-distributeur-de-bonbons.png
-  topics: [projet-itec]
+  topics:
+    - projet-itec
 - year: 2023-24
   org: ITEC I2
   display_name: Presse à inserts
   description: Projet ITEC – Modèle 3D
   repo_url: https://thangs.com/designer/Aurélien%20V/3d-model/Presse%20à%20inserts%20à%20balancier%20réglable.-994273
   image_url: /assets/screenshots/itec-i2__12-presse-a-inserts.png
-  topics: [projet-itec]
+  topics:
+    - projet-itec
 - year: 2023-24
   org: ITEC I2
   display_name: Profil designer
   description: Profil Thangs
   repo_url: https://thangs.com/designer/Cordier%20Solène
   image_url: /assets/screenshots/itec-i2__13-profil-designer.png
-  topics: [projet-itec]
+  topics:
+    - projet-itec
 - year: 2023-24
   org: ITEC I2
   display_name: Support de téléphone
   description: Projet ITEC – Modèle 3D
   repo_url: https://thangs.com/designer/Jules%20Dufossé/3d-model/Support%20de%20Téléphone%20Articulé-994615
   image_url: /assets/screenshots/itec-i2__14-support-de-telephone.png
-  topics: [projet-itec]
+  topics:
+    - projet-itec
 - year: 2023-24
   org: ITEC I2
   display_name: Fauteuil roulant neige
   description: Projet ITEC – Modèle 3D
   repo_url: https://thangs.com/designer/ArthurTom/3d-model/Fauteuil%20roulant%20sur%20neige-994608
   image_url: /assets/screenshots/itec-i2__15-fauteuil-roulant-neige.png
-  topics: [projet-itec]
+  topics:
+    - projet-itec
 - year: 2023-24
   org: ITEC I2
   display_name: Générateur triphasé
   description: Projet ITEC – Modèle 3D
   repo_url: https://thangs.com/designer/jules.carpentier2004/3d-model/Générateur%20triphasé-994598
   image_url: /assets/screenshots/itec-i2__16-generateur-triphase.png
-  topics: [projet-itec]
+  topics:
+    - projet-itec
 - year: 2023-24
   org: ITEC I2
   display_name: Marble Run
   description: Projet ITEC – Modèle 3D
   repo_url: https://thangs.com/designer/gauthier.gomel/3d-model/Marble%20Runilasalle-993717
   image_url: /assets/screenshots/itec-i2__17-marble-run.png
-  topics: [projet-itec]
+  topics:
+    - projet-itec
 - year: 2023-24
   org: ITEC I2
   display_name: Distributeur de croquettes
   description: Projet ITEC – Modèle 3D
   repo_url: https://thangs.com/designer/Alexia_Lfb/3d-model/Distributeur%20de%20croquettes-994262
   image_url: /assets/screenshots/itec-i2__18-distributeur-de-croquettes.png
-  topics: [projet-itec]
+  topics:
+    - projet-itec
 - year: 2023-24
   org: ITEC I2
   display_name: Horloge d'intérieur
   description: Projet ITEC – Modèle 3D
   repo_url: https://thangs.com/designer/AntoineLaD/3d-model/Horloge%20d%27intérieur-994607
   image_url: /assets/screenshots/itec-i2__19-horloge-d-interieur.png
-  topics: [projet-itec]
+  topics:
+    - projet-itec
 - year: 2023-24
   org: ITEC I2
   display_name: Grande roue
   description: Projet ITEC – Modèle 3D
   repo_url: https://thangs.com/designer/MaxMallevays/3d-model/Grande%20roue-994606
   image_url: /assets/screenshots/itec-i2__20-grande-roue.png
-  topics: [projet-itec]
+  topics:
+    - projet-itec
 - year: 2023-24
   org: ITEC I2
   display_name: Mechanical counter
   description: Projet ITEC – Modèle 3D
   repo_url: https://thangs.com/designer/CLuap/3d-model/Mechanical%20counter-994890
   image_url: /assets/screenshots/itec-i2__21-mechanical-counter.png
-  topics: [projet-itec]
+  topics:
+    - projet-itec
 - year: 2023-24
   org: ITEC I2
   display_name: Moteur en étoile
   description: Projet ITEC – Modèle 3D
   repo_url: https://thangs.com/designer/Gaëtan%20SUCH/3d-model/moteur%20en%20etoile-994611?manualModelView=true&source=Recent
   image_url: /assets/screenshots/itec-i2__22-moteur-en-etoile.png
-  topics: [projet-itec]
+  topics:
+    - projet-itec
 - year: 2023-24
   org: ITEC I2
   display_name: Tirelire casse-tête
   description: Projet ITEC – Modèle 3D
   repo_url: https://thangs.com/designer/J.N/3d-model/Tirelire%20Casse-tête%20UniLaSalle-994046
   image_url: /assets/screenshots/itec-i2__23-tirelire-casse-tete.png
-  topics: [projet-itec]
+  topics:
+    - projet-itec
 - year: 2023-24
   org: ITEC I2
   display_name: Profil designer
   description: Profil Thangs
   repo_url: https://thangs.com/designer/timotebiget
   image_url: /assets/screenshots/itec-i2__24-profil-designer.png
-  topics: [projet-itec]
+  topics:
+    - projet-itec
 - year: 2023-24
   org: ITEC I2
   display_name: Kit pédagogique
   description: Projet ITEC – Modèle 3D
   repo_url: https://thangs.com/designer/KOUNDA%20LEKOU%20Elsy/3d-model/Kit%20pedagogique-994775
   image_url: /assets/screenshots/itec-i2__25-kit-pedagogique.png
-  topics: [projet-itec]
+  topics:
+    - projet-itec
 - year: 2023-24
   org: ITEC I2
   display_name: Moulin
   description: Projet ITEC – Modèle 3D
   repo_url: https://thangs.com/designer/Charles.L/3d-model/Moulin-996114
   image_url: /assets/screenshots/itec-i2__26-moulin.png
-  topics: [projet-itec]
+  topics:
+    - projet-itec
 - year: 2023-24
   org: ITEC I2
   display_name: FlexiHold
   description: Projet ITEC – Modèle 3D
   repo_url: https://thangs.com/designer/yass/3d-model/FlexiHold-994085
   image_url: /assets/screenshots/itec-i2__27-flexihold.png
-  topics: [projet-itec]
+  topics:
+    - projet-itec
 - year: 2023-24
   org: ITEC I2
   display_name: Page projets ITEC I2
   description: Présentation des projets ITEC 2024
   repo_url: https://unimakers.fr/ITEC-2024-I2/
   image_url: /assets/screenshots/itec-i2__28-page-projets-itec-i2.png
-  topics: [projet-itec]
+  topics:
+    - projet-itec
 - year: 2023-24
   org: ITEC I2
   display_name: Fontaine à jet laminaire
   description: Projet ITEC – Modèle 3D
   repo_url: https://thangs.com/designer/hubertleroy1521/3d-model/Fontaine%20à%20jet%20laminaire%20-1007028
   image_url: /assets/screenshots/itec-i2__29-fontaine-a-jet-laminaire.png
-  topics: [projet-itec]
+  topics:
+    - projet-itec
 - year: 2024-25
   org: Initiation Prototypage I1
   display_name: Bedside lamp
   description: Projet Printables – Modèle 3D
   repo_url: https://www.printables.com/model/1075642-bedside-lamp-design-concept
-  image_url: https://media.printables.com/media/prints/1075642/images/8137029_7d76031a-d937-445e-b57f-111c86ebb394_e10668ba-ea36-47d7-af8e-fc6c7a5c56df/thumbs/cover/1200x630/jpg/snapchat-731203362.jpg
+  image_url: >-
+    https://media.printables.com/media/prints/1075642/images/8137029_7d76031a-d937-445e-b57f-111c86ebb394_e10668ba-ea36-47d7-af8e-fc6c7a5c56df/thumbs/cover/1200x630/jpg/snapchat-731203362.jpg
 - year: 2024-25
   org: Initiation Prototypage I1
   display_name: The secret room
   description: Projet Printables – Modèle 3D
   repo_url: https://www.printables.com/model/1076833-the-secret-room
-  image_url: https://media.printables.com/media/prints/1076833/images/8146141_e9d4e44c-ed09-4907-a70e-bfe16335f97f_3448069f-b9de-4fb9-aee3-4ce98413d52a/thumbs/cover/1200x630/png/capture-decran-2024-11-17-150848.png
+  image_url: >-
+    https://media.printables.com/media/prints/1076833/images/8146141_e9d4e44c-ed09-4907-a70e-bfe16335f97f_3448069f-b9de-4fb9-aee3-4ce98413d52a/thumbs/cover/1200x630/png/capture-decran-2024-11-17-150848.png
 - year: 2024-25
   org: Initiation Prototypage I1
   display_name: Candy dispenser
   description: Projet Printables – Modèle 3D
   repo_url: https://www.printables.com/model/1071916-candy-dispenser
-  image_url: https://media.printables.com/media/prints/1071916/images/8148882_4f1dda73-9fef-4ac1-afac-1d8b7a68953c_46d5a415-de0a-44b5-9c01-d77b8ef6a4d0/thumbs/cover/1200x630/png/capture-decran-17.png
+  image_url: >-
+    https://media.printables.com/media/prints/1071916/images/8148882_4f1dda73-9fef-4ac1-afac-1d8b7a68953c_46d5a415-de0a-44b5-9c01-d77b8ef6a4d0/thumbs/cover/1200x630/png/capture-decran-17.png
 - year: 2024-25
   org: Initiation Prototypage I1
   display_name: Sip'n'Ride
   description: Projet Printables – Modèle 3D
   repo_url: https://www.printables.com/model/1071907-sipnride
-  image_url: https://media.printables.com/media/prints/1071907/images/8118215_85e22bd0-f4ad-452b-8dab-78c164138d67_017e9c26-28f3-448f-a142-c8b9f0a7f691/thumbs/cover/1200x630/gif/tempimagenowdzq.gif
+  image_url: >-
+    https://media.printables.com/media/prints/1071907/images/8118215_85e22bd0-f4ad-452b-8dab-78c164138d67_017e9c26-28f3-448f-a142-c8b9f0a7f691/thumbs/cover/1200x630/gif/tempimagenowdzq.gif
 - year: 2024-25
   org: Initiation Prototypage I1
   display_name: Switch wheel
   description: Projet Printables – Modèle 3D
   repo_url: https://www.printables.com/model/1077050-switch-wheel
-  image_url: https://media.printables.com/media/prints/1077050/images/8147659_f70bcb81-e5a7-4429-b470-5987ff99f27c_7640ad2e-5cbd-419d-b042-9a3b2c20429d/thumbs/cover/1200x630/jpg/image.jpg
+  image_url: >-
+    https://media.printables.com/media/prints/1077050/images/8147659_f70bcb81-e5a7-4429-b470-5987ff99f27c_7640ad2e-5cbd-419d-b042-9a3b2c20429d/thumbs/cover/1200x630/jpg/image.jpg
 - year: 2024-25
   org: Initiation Prototypage I1
   display_name: Game board
   description: Projet Printables – Modèle 3D
   repo_url: https://www.printables.com/model/1077648-game-board
-  image_url: https://media.printables.com/media/prints/1077648/images/8151592_b0ed88b4-243e-4ef3-a860-ceda720d4966_f0525d86-048b-468c-be14-06af112d1b3e/thumbs/cover/1200x630/png/img_20241114_170838-removebg-preview.png
+  image_url: >-
+    https://media.printables.com/media/prints/1077648/images/8151592_b0ed88b4-243e-4ef3-a860-ceda720d4966_f0525d86-048b-468c-be14-06af112d1b3e/thumbs/cover/1200x630/png/img_20241114_170838-removebg-preview.png
 - year: 2024-25
   org: Initiation Prototypage I1
   display_name: Toothbrush tree
   description: Projet Printables – Modèle 3D
   repo_url: https://www.printables.com/model/1071908-toothbrush-tree
-  image_url: https://media.printables.com/media/prints/1071908/images/8109584_6a66dc08-1b7b-4139-8949-2835473138c1_f14c52c9-7cce-4d70-b6b1-acb90277deee/thumbs/cover/1200x630/jpeg/img_7097.jpg
+  image_url: >-
+    https://media.printables.com/media/prints/1071908/images/8109584_6a66dc08-1b7b-4139-8949-2835473138c1_f14c52c9-7cce-4d70-b6b1-acb90277deee/thumbs/cover/1200x630/jpeg/img_7097.jpg
 - year: 2024-25
   org: Initiation Prototypage I1
   display_name: Articulating lamp arm
   description: Projet Printables – Modèle 3D
   repo_url: https://www.printables.com/model/1077318-articulating-lamp-arm-with-desk-clamp
-  image_url: https://media.printables.com/media/prints/1077318/images/8150055_54a7c678-789b-420d-8b37-114d24ec89ed_09836f56-0fb7-400c-8fcd-c5b9a2475f0d/thumbs/cover/1200x630/jpg/1731871522989.jpg
+  image_url: >-
+    https://media.printables.com/media/prints/1077318/images/8150055_54a7c678-789b-420d-8b37-114d24ec89ed_09836f56-0fb7-400c-8fcd-c5b9a2475f0d/thumbs/cover/1200x630/jpg/1731871522989.jpg
 - year: 2024-25
   org: Initiation Prototypage I1
   display_name: Beacon point
   description: Projet Printables – Modèle 3D
   repo_url: https://www.printables.com/model/1073805-beacon-point
-  image_url: https://media.printables.com/media/prints/1073805/images/8143966_3d32bded-1dac-4668-a897-3105339dc1d4_67e1d0bc-0fae-484b-9f16-124798080459/thumbs/cover/1200x630/jpg/img_20241116_170744.jpg
+  image_url: >-
+    https://media.printables.com/media/prints/1073805/images/8143966_3d32bded-1dac-4668-a897-3105339dc1d4_67e1d0bc-0fae-484b-9f16-124798080459/thumbs/cover/1200x630/jpg/img_20241116_170744.jpg
 - year: 2024-25
   org: Initiation Prototypage I1
   display_name: Screw sorter M4
   description: Projet Printables – Modèle 3D
   repo_url: https://www.printables.com/model/1071887-screw-sorter-m4
-  image_url: https://media.printables.com/media/prints/1071887/images/8124079_f9d0656d-0758-4358-b05d-87d2f4879482_17f89444-a177-4487-aa61-66327fa469e3/thumbs/cover/1200x630/jpg/img_e5609.jpg
+  image_url: >-
+    https://media.printables.com/media/prints/1071887/images/8124079_f9d0656d-0758-4358-b05d-87d2f4879482_17f89444-a177-4487-aa61-66327fa469e3/thumbs/cover/1200x630/jpg/img_e5609.jpg
 - year: 2024-25
   org: Initiation Prototypage I1
   display_name: Mini babyfoot
   description: Projet Printables – Modèle 3D
   repo_url: https://www.printables.com/model/1071889-mini-babyfoot
-  image_url: https://media.printables.com/media/prints/1071889/images/8123954_8fda6abb-237f-49e9-9452-d123ac98a47f_48b2c378-6454-4cdc-836b-55bcc9e3a354/thumbs/cover/1200x630/jpeg/img_6741.jpg
+  image_url: >-
+    https://media.printables.com/media/prints/1071889/images/8123954_8fda6abb-237f-49e9-9452-d123ac98a47f_48b2c378-6454-4cdc-836b-55bcc9e3a354/thumbs/cover/1200x630/jpeg/img_6741.jpg
 - year: 2024-25
   org: Initiation Prototypage I1
   display_name: Bicycle bottle holder
   description: Projet Printables – Modèle 3D
   repo_url: https://www.printables.com/model/1076793-bicycle-bottle-holder
-  image_url: https://media.printables.com/media/prints/1076793/images/8144976_5a4d1717-a766-474e-ba79-e27543c6e8da_0a476b42-36fd-4616-bcb9-fb27d2e4a71f/thumbs/cover/1200x630/jpg/20241114_1648121.jpg
+  image_url: >-
+    https://media.printables.com/media/prints/1076793/images/8144976_5a4d1717-a766-474e-ba79-e27543c6e8da_0a476b42-36fd-4616-bcb9-fb27d2e4a71f/thumbs/cover/1200x630/jpg/20241114_1648121.jpg
 - year: 2024-25
   org: Initiation Prototypage I1
   display_name: Induction hotplate support
   description: Projet Printables – Modèle 3D
   repo_url: https://www.printables.com/model/1071886-induction-hotplate-support-for-blindness-people
-  image_url: https://media.printables.com/media/prints/1071886/images/8109580_78eb7fcb-4033-4c70-8236-0609f012b830_33fc1888-8204-4a90-b59e-97ad6025d5fe/thumbs/cover/1200x630/jpg/1731501772952.jpg
+  image_url: >-
+    https://media.printables.com/media/prints/1071886/images/8109580_78eb7fcb-4033-4c70-8236-0609f012b830_33fc1888-8204-4a90-b59e-97ad6025d5fe/thumbs/cover/1200x630/jpg/1731501772952.jpg
 - year: 2024-25
   org: Initiation Prototypage I1
   display_name: Mechanical gripper
   description: Projet Printables – Modèle 3D
   repo_url: https://www.printables.com/model/1071883-mechanical-gripper
-  image_url: https://media.printables.com/media/prints/1071883/images/8124184_68fd28b5-753b-4d7b-b32c-2ce034b0bd9b_eadad34e-eae5-4037-98f3-1fd81dfd6c3c/thumbs/cover/1200x630/jpg/20241114_171452.jpg
+  image_url: >-
+    https://media.printables.com/media/prints/1071883/images/8124184_68fd28b5-753b-4d7b-b32c-2ce034b0bd9b_eadad34e-eae5-4037-98f3-1fd81dfd6c3c/thumbs/cover/1200x630/jpg/20241114_171452.jpg
 - year: 2024-25
   org: Initiation Prototypage I1
   display_name: Modular drawer
   description: Projet Printables – Modèle 3D
   repo_url: https://www.printables.com/model/1077585-modular_drawer
-  image_url: https://media.printables.com/media/prints/1077585/images/8151136_1230abe9-1c2a-4ab9-a0c7-f2b52f1e3919_3067e97f-9b4a-444c-8d07-8f6954d451f0/thumbs/cover/1200x630/jpg/img_8868.jpg
+  image_url: >-
+    https://media.printables.com/media/prints/1077585/images/8151136_1230abe9-1c2a-4ab9-a0c7-f2b52f1e3919_3067e97f-9b4a-444c-8d07-8f6954d451f0/thumbs/cover/1200x630/jpg/img_8868.jpg
 - year: 2024-25
   org: Initiation Prototypage I1
   display_name: Custom Switch dock
   description: Projet Printables – Modèle 3D
   repo_url: https://www.printables.com/model/1071953-custom-dock-swicth
-  image_url: https://media.printables.com/media/prints/1071953/images/8123852_a1ee8f1b-637f-44a2-8a1e-d4f4b94799f4_b2bed46e-6fca-420b-b2b3-c68dbaadc73e/thumbs/cover/1200x630/jpg/img_20241115_080735.jpg
+  image_url: >-
+    https://media.printables.com/media/prints/1071953/images/8123852_a1ee8f1b-637f-44a2-8a1e-d4f4b94799f4_b2bed46e-6fca-420b-b2b3-c68dbaadc73e/thumbs/cover/1200x630/jpg/img_20241115_080735.jpg
 - year: 2024-25
   org: Initiation Prototypage I1
   display_name: ALT + F4 key
   description: Projet Printables – Modèle 3D
   repo_url: https://www.printables.com/model/1077485-alt-f4-key
-  image_url: https://media.printables.com/media/prints/1077485/images/8150459_c11fb587-3b76-49d4-a0ff-fd75993c0d32_ee34144e-f46a-4308-a440-edf0d13ea398/thumbs/cover/1200x630/jpg/1731657430121.jpg
+  image_url: >-
+    https://media.printables.com/media/prints/1077485/images/8150459_c11fb587-3b76-49d4-a0ff-fd75993c0d32_ee34144e-f46a-4308-a440-edf0d13ea398/thumbs/cover/1200x630/jpg/1731657430121.jpg
 - year: 2024-25
   org: Initiation Prototypage I1
   display_name: Cat kibble dispenser
   description: Projet Printables – Modèle 3D
   repo_url: https://www.printables.com/model/1068733-cat-kibble-dispenser
-  image_url: https://media.printables.com/media/prints/1068733/images/8110225_395a8ea8-c9ed-4788-bed8-e4c071c9f575_16ad528e-ae8c-466f-b0d0-941ed7d949c1/thumbs/cover/1200x630/jpg/img_9782.jpg
+  image_url: >-
+    https://media.printables.com/media/prints/1068733/images/8110225_395a8ea8-c9ed-4788-bed8-e4c071c9f575_16ad528e-ae8c-466f-b0d0-941ed7d949c1/thumbs/cover/1200x630/jpg/img_9782.jpg
 - year: 2024-25
   org: Initiation Prototypage I1
   display_name: Le verre de trop
   description: Projet Printables – Modèle 3D
   repo_url: https://www.printables.com/model/1075655-le-verre-de-trop
-  image_url: https://media.printables.com/media/prints/1075655/images/8148331_1812e6cc-1321-4460-8438-58e57b972ad5_fd795910-d9fb-4611-8381-88cdb851fd52/thumbs/cover/1200x630/png/capture-decran-2024-11-17-171244.png
+  image_url: >-
+    https://media.printables.com/media/prints/1075655/images/8148331_1812e6cc-1321-4460-8438-58e57b972ad5_fd795910-d9fb-4611-8381-88cdb851fd52/thumbs/cover/1200x630/png/capture-decran-2024-11-17-171244.png
 - year: 2024-25
   org: Otto
   display_name: CRABOTT
   description: Projet Otto
   repo_url: https://github.com/luk-charp/Site-CRABOTT
   pages_url: https://luk-charp.github.io/Site-CRABOTT/index.html
-  topics: [otto]
+  topics:
+    - otto
+  image_url: /assets/screenshots/otto__crabott.png
 - year: 2024-25
   org: Otto
   display_name: Mike Otto
   description: Projet Otto
   repo_url: https://chachabiga.wixsite.com/mike-otto
-  topics: [otto]
+  topics:
+    - otto
+  image_url: /assets/screenshots/otto__mike-otto.png
 - year: 2024-25
   org: Otto
   display_name: Otto Groupe 10
   description: Projet Otto
   repo_url: https://github.com/etiennemrtl/otto-groupe-10
   pages_url: https://etiennemrtl.github.io/otto-groupe-10/
-  topics: [otto]
+  topics:
+    - otto
+  image_url: /assets/screenshots/otto__otto-groupe-10.png
 - year: 2025-26
   org: Medieval Challenge
   display_name: Ribbed Barrel Catapult
   description: Projet Printables – Modèle 3D
   repo_url: https://www.printables.com/model/1542804-ribbed-barrel-catapult
-  topics: [medieval-challenge]
-  image_url: https://media.printables.com/media/prints/ec28439e-f3a7-437f-af0e-4ce519d8f15a/images/11693421_0b301264-4ffb-4ead-a816-9f546d5890be_e7c13cbf-2f61-42ef-ba8e-a6ffb3f8371e/thumbs/cover/1200x630/jpg/demo2.jpg
+  topics:
+    - medieval-challenge
+  image_url: >-
+    https://media.printables.com/media/prints/ec28439e-f3a7-437f-af0e-4ce519d8f15a/images/11693421_0b301264-4ffb-4ead-a816-9f546d5890be_e7c13cbf-2f61-42ef-ba8e-a6ffb3f8371e/thumbs/cover/1200x630/jpg/demo2.jpg
 - year: 2025-26
   org: Medieval Challenge
   display_name: Catapulte revisitée par The Rail
   description: Projet Printables – Modèle 3D
   repo_url: https://www.printables.com/model/1547986-catapulte-revisite-par-the-rail
-  topics: [medieval-challenge]
-  image_url: https://media.printables.com/media/prints/04419db6-24d8-4c1e-a403-ecd50e421add/images/11671774_64ca5284-e881-4ec0-a91f-b8b607823818_e641c7d9-2741-4715-8cc1-5aa8b072a18d/thumbs/cover/1200x630/jpg/img_6236.jpg
+  topics:
+    - medieval-challenge
+  image_url: >-
+    https://media.printables.com/media/prints/04419db6-24d8-4c1e-a403-ecd50e421add/images/11671774_64ca5284-e881-4ec0-a91f-b8b607823818_e641c7d9-2741-4715-8cc1-5aa8b072a18d/thumbs/cover/1200x630/jpg/img_6236.jpg
 - year: 2025-26
   org: Medieval Challenge
   display_name: Projet Medieval Challenge
   description: Projet Printables – Modèle 3D
   repo_url: https://www.printables.com/model/1524508-projet-medieval-challenge
-  topics: [medieval-challenge]
-  image_url: https://media.printables.com/media/prints/01b43a37-e2a7-45df-9756-4d442668cb08/images/11484802_810efe1a-ec1a-423c-ba0d-b96b1e7038d0_f7ad9b86-33c6-45fe-96fa-eb1fdfb5eb27/thumbs/cover/1200x630/png/capture-decran-2025-12-06-225814.png
+  topics:
+    - medieval-challenge
+  image_url: >-
+    https://media.printables.com/media/prints/01b43a37-e2a7-45df-9756-4d442668cb08/images/11484802_810efe1a-ec1a-423c-ba0d-b96b1e7038d0_f7ad9b86-33c6-45fe-96fa-eb1fdfb5eb27/thumbs/cover/1200x630/png/capture-decran-2025-12-06-225814.png
 - year: 2025-26
   org: Medieval Challenge
   display_name: Rotary Trebuchet System
   description: Projet Printables – Modèle 3D
   repo_url: https://www.printables.com/model/1502758-rotary-trebuchet-system
-  topics: [medieval-challenge]
-  image_url: https://media.printables.com/media/prints/7ff6884a-c587-49dd-89a4-2dfb041d57b7/images/11669051_6281e9c2-c577-40aa-869a-c0e6b43b1f96_cca96f7f-27b0-4c39-abd4-d9fd80e615e3/thumbs/cover/1200x630/jpeg/img_0944.jpg
+  topics:
+    - medieval-challenge
+  image_url: >-
+    https://media.printables.com/media/prints/7ff6884a-c587-49dd-89a4-2dfb041d57b7/images/11669051_6281e9c2-c577-40aa-869a-c0e6b43b1f96_cca96f7f-27b0-4c39-abd4-d9fd80e615e3/thumbs/cover/1200x630/jpeg/img_0944.jpg
 - year: 2025-26
   org: Medieval Challenge
   display_name: Spring Catapult
   description: Projet Printables – Modèle 3D
   repo_url: https://www.printables.com/model/1548091-spring-catapult-medieval-challenge
-  topics: [medieval-challenge]
-  image_url: https://media.printables.com/media/prints/3f7af6c9-2d77-4fe7-9146-6669bb1c6350/images/11672588_f7f09539-f61a-4dca-bd3f-b69728973716_54dd63a5-691c-4c47-9a5c-88e024b6b677/thumbs/cover/1200x630/jpg/20260107_144109.jpg
+  topics:
+    - medieval-challenge
+  image_url: >-
+    https://media.printables.com/media/prints/3f7af6c9-2d77-4fe7-9146-6669bb1c6350/images/11672588_f7f09539-f61a-4dca-bd3f-b69728973716_54dd63a5-691c-4c47-9a5c-88e024b6b677/thumbs/cover/1200x630/jpg/20260107_144109.jpg
 - year: 2025-26
   org: Medieval Challenge
   display_name: Adjustable Ballista
   description: Projet Printables – Modèle 3D
   repo_url: https://www.printables.com/model/1481261-adjustable-ballista
-  topics: [medieval-challenge]
-  image_url: https://media.printables.com/media/prints/49ad2d35-078f-45e3-ba30-8845d85766e4/images/11595779_e7a760f4-6c0a-46dc-988e-0662bf8e2ace_dd8b727c-e2a8-45a4-93b2-dd82bca0812b/thumbs/cover/1200x630/jpg/1000009177.jpg
+  topics:
+    - medieval-challenge
+  image_url: >-
+    https://media.printables.com/media/prints/49ad2d35-078f-45e3-ba30-8845d85766e4/images/11595779_e7a760f4-6c0a-46dc-988e-0662bf8e2ace_dd8b727c-e2a8-45a4-93b2-dd82bca0812b/thumbs/cover/1200x630/jpg/1000009177.jpg
 - year: 2025-26
   org: Medieval Challenge
   display_name: Catapulte médiévale
   description: Projet Printables – Modèle 3D
   repo_url: https://www.printables.com/model/1538536-catapulte-medievale
-  topics: [medieval-challenge]
-  image_url: https://media.printables.com/media/prints/890e8d26-ca12-4ca1-832a-e80bb5321e3f/images/11671687_183896e8-20c2-40b5-bea8-68a12bada485_1ee1bc8d-ada9-41e5-9638-68bb1bb4f497/thumbs/cover/1200x630/jpg/img_4238-2.jpg
+  topics:
+    - medieval-challenge
+  image_url: >-
+    https://media.printables.com/media/prints/890e8d26-ca12-4ca1-832a-e80bb5321e3f/images/11671687_183896e8-20c2-40b5-bea8-68a12bada485_1ee1bc8d-ada9-41e5-9638-68bb1bb4f497/thumbs/cover/1200x630/jpg/img_4238-2.jpg
 - year: 2025-26
   org: Medieval Challenge
   display_name: Catapulte médiévale
   description: Projet Printables – Modèle 3D
   repo_url: https://www.printables.com/model/1553763-catapulte-medievale
-  topics: [medieval-challenge]
-  image_url: https://media.printables.com/media/prints/92d0f3fc-e214-4385-90f1-7003141815e7/images/11713075_d46ad71a-5441-48ca-80c9-cbcbd7cb5575_fee97fa3-8f32-481b-a253-06e4d4257f0f/thumbs/cover/1200x630/jpg/thumbnail_processed-91aaec4f-2059-4573-b358-6de06c2f91df.jpg
+  topics:
+    - medieval-challenge
+  image_url: >-
+    https://media.printables.com/media/prints/92d0f3fc-e214-4385-90f1-7003141815e7/images/11713075_d46ad71a-5441-48ca-80c9-cbcbd7cb5575_fee97fa3-8f32-481b-a253-06e4d4257f0f/thumbs/cover/1200x630/jpg/thumbnail_processed-91aaec4f-2059-4573-b358-6de06c2f91df.jpg
 - year: 2025-26
   org: Medieval Challenge
   display_name: Medieval Catapult
   description: Projet Printables – Modèle 3D
   repo_url: https://www.printables.com/model/1546511-medieval-catapult
-  topics: [medieval-challenge]
-  image_url: https://media.printables.com/media/prints/f4d6ecbf-bd6b-440c-9d98-0e58b4f950c6/images/11671419_7bb94ad5-f490-453b-90c8-cb301c75cfc8_096fbc00-edba-4eda-b6ca-f310b1eede2d/thumbs/cover/1200x630/jpg/img_6362-2.jpg
+  topics:
+    - medieval-challenge
+  image_url: >-
+    https://media.printables.com/media/prints/f4d6ecbf-bd6b-440c-9d98-0e58b4f950c6/images/11671419_7bb94ad5-f490-453b-90c8-cb301c75cfc8_096fbc00-edba-4eda-b6ca-f310b1eede2d/thumbs/cover/1200x630/jpg/img_6362-2.jpg
 - year: 2025-26
   org: Medieval Challenge
   display_name: Catapulte Les Tigres V10
   description: Projet Printables – Modèle 3D
   repo_url: https://www.printables.com/model/1549783-catapulte-les-tigres-v10
-  topics: [medieval-challenge]
-  image_url: https://media.printables.com/media/prints/2549d7ed-7da2-4bdd-8969-7a5e39ebcec2/images/11694974_821ac9a4-921d-4722-b764-f8b211f6c7fc_cc9560df-0745-4dda-b3e7-7c2de405fed2/thumbs/cover/1200x630/png/image_2026-01-10_223915968.png
+  topics:
+    - medieval-challenge
+  image_url: >-
+    https://media.printables.com/media/prints/2549d7ed-7da2-4bdd-8969-7a5e39ebcec2/images/11694974_821ac9a4-921d-4722-b764-f8b211f6c7fc_cc9560df-0745-4dda-b3e7-7c2de405fed2/thumbs/cover/1200x630/png/image_2026-01-10_223915968.png
 - year: 2025-26
   org: Medieval Challenge
   display_name: Catapult
   description: Projet Printables – Modèle 3D
   repo_url: https://www.printables.com/model/1549564-catapult
-  topics: [medieval-challenge]
-  image_url: https://media.printables.com/media/prints/7a74d845-1780-47a4-a51b-6c804428dc30/images/11683413_68b66f89-d12c-424d-9beb-1a0936ae467f_8ca3ec5b-a8b3-48bb-845d-827c3fb3bc70/thumbs/cover/1200x630/jpeg/img_0298.jpg
+  topics:
+    - medieval-challenge
+  image_url: >-
+    https://media.printables.com/media/prints/7a74d845-1780-47a4-a51b-6c804428dc30/images/11683413_68b66f89-d12c-424d-9beb-1a0936ae467f_8ca3ec5b-a8b3-48bb-845d-827c3fb3bc70/thumbs/cover/1200x630/jpeg/img_0298.jpg
 - year: 2025-26
   org: Medieval Challenge
   display_name: Catapulte Yannou
   description: Projet Printables – Modèle 3D
   repo_url: https://www.printables.com/model/1550801-catapulte-medieval-challenge-yannou
-  topics: [medieval-challenge]
-  image_url: https://media.printables.com/media/prints/0e2e13b2-6958-4d22-ba4b-f07d36cd3571/images/11692678_085dbd11-c5ea-4448-b40e-6011720856bf_85561376-9dc3-4385-aa56-e8174dc70cd5/thumbs/cover/1200x630/jpg/img_4791.jpg
+  topics:
+    - medieval-challenge
+  image_url: >-
+    https://media.printables.com/media/prints/0e2e13b2-6958-4d22-ba4b-f07d36cd3571/images/11692678_085dbd11-c5ea-4448-b40e-6011720856bf_85561376-9dc3-4385-aa56-e8174dc70cd5/thumbs/cover/1200x630/jpg/img_4791.jpg
 - year: 2025-26
   org: Medieval Challenge
   display_name: Modèle Catapulte
   description: Projet Printables – Modèle 3D
   repo_url: https://www.printables.com/model/1554997-modele-catapulte
-  topics: [medieval-challenge]
-  image_url: https://media.printables.com/media/prints/ee844383-188c-414b-9c93-3e2cb1a46503/images/11721796_a9c62259-1ac8-468d-b7af-e846ae333494_4e8817ff-ea47-4439-95d4-559e7422aff5/thumbs/cover/1200x630/png/base.png
+  topics:
+    - medieval-challenge
+  image_url: >-
+    https://media.printables.com/media/prints/ee844383-188c-414b-9c93-3e2cb1a46503/images/11721796_a9c62259-1ac8-468d-b7af-e846ae333494_4e8817ff-ea47-4439-95d4-559e7422aff5/thumbs/cover/1200x630/png/base.png
 - year: 2025-26
   org: Medieval Challenge
   display_name: Arme médiévale
   description: Projet Printables – Modèle 3D
   repo_url: https://www.printables.com/model/1550593-arme-medievale
-  topics: [medieval-challenge]
-  image_url: https://media.printables.com/media/prints/7f07086c-d6ae-4490-ac58-1e7497c4be0b/images/11689978_da3871f5-6b6a-4f13-bdc6-41f804ab6898_3e926f31-6a58-4237-947b-e93c980e0b05/thumbs/cover/1200x630/png/capture-decran-2026-01-10-122351.png
+  topics:
+    - medieval-challenge
+  image_url: >-
+    https://media.printables.com/media/prints/7f07086c-d6ae-4490-ac58-1e7497c4be0b/images/11689978_da3871f5-6b6a-4f13-bdc6-41f804ab6898_3e926f31-6a58-4237-947b-e93c980e0b05/thumbs/cover/1200x630/png/capture-decran-2026-01-10-122351.png
 - year: 2025-26
   org: Medieval Challenge
   display_name: Medieval Challenge Catapult
   description: Projet Printables – Modèle 3D
   repo_url: https://www.printables.com/model/1553781-medieval-chalenge-catapult
-  topics: [medieval-challenge]
-  image_url: https://media.printables.com/media/prints/adc934fc-9449-448e-98a0-00acdf589d96/images/11713462_1c117d6c-ca08-4a28-b3f5-87784f5f46a4_b32c35f9-15d6-49cd-9960-13e8d5ba3d77/thumbs/cover/1200x630/jpeg/img_0550.jpg
+  topics:
+    - medieval-challenge
+  image_url: >-
+    https://media.printables.com/media/prints/adc934fc-9449-448e-98a0-00acdf589d96/images/11713462_1c117d6c-ca08-4a28-b3f5-87784f5f46a4_b32c35f9-15d6-49cd-9960-13e8d5ba3d77/thumbs/cover/1200x630/jpeg/img_0550.jpg
 - year: 2025-26
   org: Medieval Challenge
   display_name: Modèle Ballista 3D
   description: Projet Printables – Modèle 3D
   repo_url: https://www.printables.com/model/1546652-modele-ballista-3d
-  topics: [medieval-challenge]
-  image_url: https://media.printables.com/media/prints/7b049909-2e44-4aa3-9266-b9927ba9771e/images/11660381_97b8fb4a-9245-44eb-9ed2-0a8a175dfe40_cbd1e307-576f-4635-aea5-9c9247ec1e8c/thumbs/cover/1200x630/jpeg/img_0659.jpg
+  topics:
+    - medieval-challenge
+  image_url: >-
+    https://media.printables.com/media/prints/7b049909-2e44-4aa3-9266-b9927ba9771e/images/11660381_97b8fb4a-9245-44eb-9ed2-0a8a175dfe40_cbd1e307-576f-4635-aea5-9c9247ec1e8c/thumbs/cover/1200x630/jpeg/img_0659.jpg
 - year: 2025-26
   org: Medieval Challenge
   display_name: La Catapulte H
   description: Projet Printables – Modèle 3D
   repo_url: https://www.printables.com/model/1543229-la-catapulte-h
-  topics: [medieval-challenge]
-  image_url: https://media.printables.com/media/prints/2559fb09-07be-4da6-8a44-c5cd10717280/images/11671820_5239a25c-634e-4333-9c78-7a4ce9b09a66_cbafcd9a-234e-471e-8b9b-bcaf0ff691dd/thumbs/cover/1200x630/jpeg/img_0183.jpg
+  topics:
+    - medieval-challenge
+  image_url: >-
+    https://media.printables.com/media/prints/2559fb09-07be-4da6-8a44-c5cd10717280/images/11671820_5239a25c-634e-4333-9c78-7a4ce9b09a66_cbafcd9a-234e-471e-8b9b-bcaf0ff691dd/thumbs/cover/1200x630/jpeg/img_0183.jpg
 - year: 2025-26
   org: Medieval Challenge
   display_name: Catapulte Medieval Challenge UniLaSalle
   description: Projet Printables – Modèle 3D
   repo_url: https://www.printables.com/model/1550639-catapulte-medieval-du-medieval-challenge-unilasall
-  topics: [medieval-challenge]
-  image_url: https://media.printables.com/media/prints/79fcb805-840a-4711-8fd5-c00ee5851e49/images/11692169_41a6a15f-505b-4e04-8c3e-9ae94bf28900_13482577-1198-4b72-983d-f4addf20369d/thumbs/cover/1200x630/jpeg/img_2844.jpg
+  topics:
+    - medieval-challenge
+  image_url: >-
+    https://media.printables.com/media/prints/79fcb805-840a-4711-8fd5-c00ee5851e49/images/11692169_41a6a15f-505b-4e04-8c3e-9ae94bf28900_13482577-1198-4b72-983d-f4addf20369d/thumbs/cover/1200x630/jpeg/img_2844.jpg
 - year: 2025-26
   org: Medieval Challenge
   display_name: Amazing Medieval Catapult
   description: Projet Printables – Modèle 3D
   repo_url: https://www.printables.com/model/1549572-amazing-medieval-catapult
-  topics: [medieval-challenge]
-  image_url: https://media.printables.com/media/prints/038344b3-77d4-423d-bfc7-f44f081dc707/images/11683708_ca4826b5-49b2-43c3-a90b-36142dd2b64b_049086b5-624f-4053-a6fa-9c5486dc8688/thumbs/cover/1200x630/jpeg/img_9495.jpg
+  topics:
+    - medieval-challenge
+  image_url: >-
+    https://media.printables.com/media/prints/038344b3-77d4-423d-bfc7-f44f081dc707/images/11683708_ca4826b5-49b2-43c3-a90b-36142dd2b64b_049086b5-624f-4053-a6fa-9c5486dc8688/thumbs/cover/1200x630/jpeg/img_9495.jpg
 - year: 2025-26
   org: Medieval Challenge
   display_name: 3D Printed Crossbow
   description: Projet Printables – Modèle 3D
   repo_url: https://www.printables.com/model/1515944-3d-printed-crossbow
-  topics: [medieval-challenge]
-  image_url: https://media.printables.com/media/prints/c052a3f1-3f96-48a3-8d55-6889dd5a3aa0/images/11680107_018fa254-e270-49da-ae1d-a771f88c1a89_8a36d1b5-7fc9-4e59-a8dc-bb74cff66f84/thumbs/cover/1200x630/jpg/img_6296.jpg
+  topics:
+    - medieval-challenge
+  image_url: >-
+    https://media.printables.com/media/prints/c052a3f1-3f96-48a3-8d55-6889dd5a3aa0/images/11680107_018fa254-e270-49da-ae1d-a771f88c1a89_8a36d1b5-7fc9-4e59-a8dc-bb74cff66f84/thumbs/cover/1200x630/jpg/img_6296.jpg
 - year: 2025-26
   org: Medieval Challenge
   display_name: Arbalète médiévale
   description: Projet Printables – Modèle 3D
   repo_url: https://www.printables.com/model/1543139-arbalete-medievale
-  topics: [medieval-challenge]
-  image_url: https://media.printables.com/media/prints/90139cf4-c28f-4269-a704-514a367b11d3/images/11683972_4b640609-53de-4103-8bf1-141892c5b2fa_3f54bce4-f2c2-45b7-85a1-583ed1cddc98/thumbs/cover/1200x630/jpeg/img_9076.jpg
+  topics:
+    - medieval-challenge
+  image_url: >-
+    https://media.printables.com/media/prints/90139cf4-c28f-4269-a704-514a367b11d3/images/11683972_4b640609-53de-4103-8bf1-141892c5b2fa_3f54bce4-f2c2-45b7-85a1-583ed1cddc98/thumbs/cover/1200x630/jpeg/img_9076.jpg
 - year: 2025-26
   org: Medieval Challenge
   display_name: Catapulte médiévale
   description: Projet Printables – Modèle 3D
   repo_url: https://www.printables.com/model/1538492-catapulte-medievale
-  topics: [medieval-challenge]
-  image_url: https://media.printables.com/media/prints/98cfd45a-d0ec-4a47-b377-0e107c75032c/images/11699112_d5fc70a6-33c7-4018-9c5f-672a5a139055_026fef2d-6945-4616-8fcd-da26c2ce0da2/thumbs/cover/1200x630/jpg/dsc_0355.jpg
+  topics:
+    - medieval-challenge
+  image_url: >-
+    https://media.printables.com/media/prints/98cfd45a-d0ec-4a47-b377-0e107c75032c/images/11699112_d5fc70a6-33c7-4018-9c5f-672a5a139055_026fef2d-6945-4616-8fcd-da26c2ce0da2/thumbs/cover/1200x630/jpg/dsc_0355.jpg
 - year: 2025-26
   org: Medieval Challenge
   display_name: Catapult
   description: Projet Printables – Modèle 3D
   repo_url: https://www.printables.com/model/1502727-catapult
-  topics: [medieval-challenge]
-  image_url: https://media.printables.com/media/prints/1bfc4784-810c-47e5-a676-1ad89f078ca8/images/11660123_62e7f344-0280-4fad-b300-b3608b9fba77_bd237c89-d40c-4e6e-bf9d-ddcb3dc970e5/thumbs/cover/1200x630/jpeg/whatsapp-image-2026-01-07-at-150802-2.jpg
+  topics:
+    - medieval-challenge
+  image_url: >-
+    https://media.printables.com/media/prints/1bfc4784-810c-47e5-a676-1ad89f078ca8/images/11660123_62e7f344-0280-4fad-b300-b3608b9fba77_bd237c89-d40c-4e6e-bf9d-ddcb3dc970e5/thumbs/cover/1200x630/jpeg/whatsapp-image-2026-01-07-at-150802-2.jpg
 - year: 2025-26
   org: Medieval Challenge
   display_name: Catapult
   description: Projet Printables – Modèle 3D
   repo_url: https://www.printables.com/model/1546624-catapult
-  topics: [medieval-challenge]
-  image_url: https://media.printables.com/media/prints/61604c52-8718-414a-af9f-9b838fc08f96/images/11692856_66f3afd9-6485-42b4-b6cf-de446040e8d4_d7976672-180d-48d0-be60-af75e6628ae0/thumbs/cover/1200x630/jpg/daace3f4-9826-4352-b8ce-cbd707ab3e17.jpg
+  topics:
+    - medieval-challenge
+  image_url: >-
+    https://media.printables.com/media/prints/61604c52-8718-414a-af9f-9b838fc08f96/images/11692856_66f3afd9-6485-42b4-b6cf-de446040e8d4_d7976672-180d-48d0-be60-af75e6628ae0/thumbs/cover/1200x630/jpg/daace3f4-9826-4352-b8ce-cbd707ab3e17.jpg
 - year: 2025-26
   org: Medieval Challenge
   display_name: Slingshot
   description: Projet Printables – Modèle 3D
   repo_url: https://www.printables.com/model/1484575-slingshot
-  topics: [medieval-challenge]
-  image_url: https://media.printables.com/media/prints/513c2d4d-2eb8-4511-b1be-3e5565cb9317/images/11693894_97f1969b-479b-4017-83dd-af38b57b4fac_079bc288-2aa7-4112-921c-12ee1c42fe6f/thumbs/cover/1200x630/png/image_2026-01-10_205319475.png
+  topics:
+    - medieval-challenge
+  image_url: >-
+    https://media.printables.com/media/prints/513c2d4d-2eb8-4511-b1be-3e5565cb9317/images/11693894_97f1969b-479b-4017-83dd-af38b57b4fac_079bc288-2aa7-4112-921c-12ee1c42fe6f/thumbs/cover/1200x630/png/image_2026-01-10_205319475.png
 - year: 2025-26
   org: Medieval Challenge
   display_name: The Pocket Siege Engine
   description: Projet Printables – Modèle 3D
   repo_url: https://www.printables.com/model/1545454-the-pocket-siege-engine-360deg-aiming-elevation
-  topics: [medieval-challenge]
-  image_url: https://media.printables.com/media/prints/61a4a2cc-6d00-4889-b169-5fa9a7a7509f/images/11665407_377690c1-f85c-4275-bead-9c638ea54796_b6f8d661-c696-4aa9-96d5-996dde66beeb/thumbs/cover/1200x630/jpeg/ready-2-play.jpg
+  topics:
+    - medieval-challenge
+  image_url: >-
+    https://media.printables.com/media/prints/61a4a2cc-6d00-4889-b169-5fa9a7a7509f/images/11665407_377690c1-f85c-4275-bead-9c638ea54796_b6f8d661-c696-4aa9-96d5-996dde66beeb/thumbs/cover/1200x630/jpeg/ready-2-play.jpg
 - year: 2023-24
   org: Coupe de Robotique
   display_name: Coupe de France de Robotique 2024 - I1
   description: La plus grande compétition de robotique européenne
   repo_url: https://unimakers.fr
   image_url: https://makerspace-amiens.fr/projets/projets_I3/2024/coupe-de-robotique-I1/DSC08112.jpg
-  topics: [coupe-de-robotique]
+  topics:
+    - coupe-de-robotique
 - year: 2023-24
   org: Coupe de Robotique
   display_name: Coupe de France de Robotique 2024 - I2
   description: La plus grande compétition de robotique européenne
   repo_url: https://unimakers.fr/CDR-2024-I2-RATP/
   image_url: https://makerspace-amiens.fr/projets/projets_I3/2024/coupe-de-robotique-I2/DSC08210.jpg
-  topics: [coupe-de-robotique]
+  topics:
+    - coupe-de-robotique
 - year: 2023-24
   org: Coupe de Robotique
   display_name: Coupe de France de Robotique 2024 - I3
   description: La plus grande compétition de robotique européenne
   repo_url: https://unimakers.fr/Docs-Unimakers-CDR-2024/
   image_url: https://makerspace-amiens.fr/projets/projets_I3/2024/coupe-de-robotique-I3/RobotDevantwide.jpg
-  topics: [coupe-de-robotique]
+  topics:
+    - coupe-de-robotique
 - year: 2023-24
   org: Coupe de Robotique
   display_name: Coupe de France de Robotique 2024 - I4
   description: La plus grande compétition de robotique européenne
   repo_url: https://github.com/amaghzaz-y/CDR-23
   image_url: https://makerspace-amiens.fr/projets/projets_I3/2024/coupe-de-robotique-I4/P1080089.jpg
-  topics: [coupe-de-robotique]
+  topics:
+    - coupe-de-robotique
 - year: 2024-25
   org: Coupe de Robotique
   display_name: Coupe de France de Robotique 2025 - UniWIP
   description: Documentation du projet Coupe de France de Robotique 2025
   repo_url: https://unimakers.fr/UniWip-Docs-CDR2025/
-  topics: [coupe-de-robotique]
+  topics:
+    - coupe-de-robotique
+  image_url: /assets/screenshots/coupe-de-robotique__coupe-de-france-de-robotique-2025-uniwip.png
 - year: 2025-26
   org: Coupe de Robotique
   display_name: Coupe de France de Robotique 2026 - Équipe I1
   description: Documentation du projet Coupe de France de Robotique 2026
   repo_url: https://unimakers.fr/CDR2026-DOC-Equipe-I1/
-  topics: [coupe-de-robotique]
+  topics:
+    - coupe-de-robotique
+  image_url: /assets/screenshots/coupe-de-robotique__coupe-de-france-de-robotique-2026-equipe-i1.png
 - year: 2025-26
   org: Coupe de Robotique
   display_name: Coupe de France de Robotique 2026 - UniMakers
   description: Documentation du projet Coupe de France de Robotique 2026
   repo_url: https://unimakers.fr/CDR2026Docs/
-  topics: [coupe-de-robotique]
+  topics:
+    - coupe-de-robotique
+  image_url: /assets/screenshots/coupe-de-robotique__coupe-de-france-de-robotique-2026-unimakers.png
