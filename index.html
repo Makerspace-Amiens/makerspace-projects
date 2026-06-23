@@ -70,20 +70,18 @@ title: Projets Makerspace Amiens
       </div>
       {% endif %}
       <div class="card-content">
-        <span class="tag is-info mb-2">{{ project.year }}</span>
+        <div class="tags mb-2 card-tags">
+          <span class="tag tag-year" data-year="{{ project.year }}">{{ project.year }}</span>
+          {% for topic in project.topics %}
+          <span class="tag tag-topic" data-topic="{{ topic }}">{{ topic }}</span>
+          {% endfor %}
+        </div>
         <p class="title is-5">{{ project.display_name }}</p>
         {% if project.org %}
         <p class="subtitle is-7">{{ project.org }}</p>
         {% endif %}
         {% if project.description %}
         <p class="content">{{ project.description }}</p>
-        {% endif %}
-        {% if project.topics.size > 0 %}
-        <div class="tags">
-          {% for topic in project.topics %}
-          <span class="tag is-light">{{ topic }}</span>
-          {% endfor %}
-        </div>
         {% endif %}
       </div>
       <footer class="card-footer">
