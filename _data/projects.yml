@@ -661,7 +661,7 @@
   topics:
     - puzzle-bot
   language: Python
-  updated_at: '2026-06-22T09:52:41Z'
+  updated_at: '2026-09-05T09:49:59Z'
 - org: Makerspace-Amiens-2025-26
   year: 2025-26
   name: Puzzle-Bot-Groupe02
@@ -740,3 +740,120 @@
     - puzzle-bot
   language: C
   updated_at: '2026-06-22T09:53:10Z'
+- org: Makerspace-Amiens-2026-27
+  year: 2026-27
+  name: MachineThatDraws2627-Groupe01
+  group: '01'
+  display_name: MachineThatDraws2627 - Groupe 01
+  description: null
+  repo_url: https://github.com/Makerspace-Amiens-2026-27/MachineThatDraws2627-Groupe01
+  pages_url: https://makerspace-amiens-2026-27.github.io/MachineThatDraws2627-Groupe01/
+  image_url: /assets/screenshots/makerspace-amiens-2026-27__machinethatdraws2627-groupe01.png
+  topics:
+    - machine-that-draws
+  language: null
+  updated_at: '2026-09-28T13:28:20Z'
+- org: Makerspace-Amiens-2026-27
+  year: 2026-27
+  name: MachineThatDraws2627-Groupe02
+  group: '02'
+  display_name: MachineThatDraws2627 - Groupe 02
+  description: null
+  repo_url: https://github.com/Makerspace-Amiens-2026-27/MachineThatDraws2627-Groupe02
+  pages_url: https://makerspace-amiens-2026-27.github.io/MachineThatDraws2627-Groupe02/
+  image_url: /assets/screenshots/makerspace-amiens-2026-27__machinethatdraws2627-groupe02.png
+  topics:
+    - machine-that-draws
+  language: null
+  updated_at: '2026-09-28T13:28:24Z'
+- org: Makerspace-Amiens-2026-27
+  year: 2026-27
+  name: MachineThatDraws2627-Groupe03
+  group: '03'
+  display_name: MachineThatDraws2627 - Groupe 03
+  description: null
+  repo_url: https://github.com/Makerspace-Amiens-2026-27/MachineThatDraws2627-Groupe03
+  pages_url: https://makerspace-amiens-2026-27.github.io/MachineThatDraws2627-Groupe03/
+  image_url: /assets/screenshots/makerspace-amiens-2026-27__machinethatdraws2627-groupe03.png
+  topics:
+    - machine-that-draws
+  language: null
+  updated_at: '2026-09-28T13:27:37Z'
+- org: Makerspace-Amiens-2026-27
+  year: 2026-27
+  name: MachineThatDraws2627-Groupe04
+  group: '04'
+  display_name: MachineThatDraws2627 - Groupe 04
+  description: null
+  repo_url: https://github.com/Makerspace-Amiens-2026-27/MachineThatDraws2627-Groupe04
+  pages_url: https://makerspace-amiens-2026-27.github.io/MachineThatDraws2627-Groupe04/
+  image_url: /assets/screenshots/makerspace-amiens-2026-27__machinethatdraws2627-groupe04.png
+  topics:
+    - machine-that-draws
+  language: null
+  updated_at: '2026-09-28T13:28:29Z'
+- org: Makerspace-Amiens-2026-27
+  year: 2026-27
+  name: MachineThatDraws2627-Groupe05
+  group: '05'
+  display_name: MachineThatDraws2627 - Groupe 05
+  description: null
+  repo_url: https://github.com/Makerspace-Amiens-2026-27/MachineThatDraws2627-Groupe05
+  pages_url: https://makerspace-amiens-2026-27.github.io/MachineThatDraws2627-Groupe05/
+  image_url: /assets/screenshots/makerspace-amiens-2026-27__machinethatdraws2627-groupe05.png
+  topics:
+    - machine-that-draws
+  language: null
+  updated_at: '2026-09-28T13:28:34Z'
+- org: Makerspace-Amiens-2026-27
+  year: 2026-27
+  name: MachineThatDraws2627-Groupe06
+  group: '06'
+  display_name: MachineThatDraws2627 - Groupe 06
+  description: null
+  repo_url: https://github.com/Makerspace-Amiens-2026-27/MachineThatDraws2627-Groupe06
+  pages_url: https://makerspace-amiens-2026-27.github.io/MachineThatDraws2627-Groupe06/
+  image_url: /assets/screenshots/makerspace-amiens-2026-27__machinethatdraws2627-groupe06.png
+  topics:
+    - machine-that-draws
+  language: null
+  updated_at: '2026-09-28T13:27:52Z'
+- org: Makerspace-Amiens-2026-27
+  year: 2026-27
+  name: MachineThatDraws2627-Groupe07
+  group: '07'
+  display_name: MachineThatDraws2627 - Groupe 07
+  description: null
+  repo_url: https://github.com/Makerspace-Amiens-2026-27/MachineThatDraws2627-Groupe07
+  pages_url: https://makerspace-amiens-2026-27.github.io/MachineThatDraws2627-Groupe07/
+  image_url: /assets/screenshots/makerspace-amiens-2026-27__machinethatdraws2627-groupe07.png
+  topics:
+    - machine-that-draws
+  language: null
+  updated_at: '2026-09-28T13:28:15Z'
+- org: Makerspace-Amiens-2026-27
+  year: 2026-27
+  name: MachineThatDraws2627-Groupe08
+  group: '08'
+  display_name: MachineThatDraws2627 - Groupe 08
+  description: null
+  repo_url: https://github.com/Makerspace-Amiens-2026-27/MachineThatDraws2627-Groupe08
+  pages_url: https://makerspace-amiens-2026-27.github.io/MachineThatDraws2627-Groupe08/
+  image_url: /assets/screenshots/makerspace-amiens-2026-27__machinethatdraws2627-groupe08.png
+  topics:
+    - machine-that-draws
+  language: null
+  updated_at: '2026-09-28T13:28:10Z'
+- org: Makerspace-Amiens-2026-27
+  year: 2026-27
+  name: MachineThatDraws2627-Groupe09
+  group: '09'
+  display_name: MachineThatDraws2627 - Groupe 09
+  description: null
+  repo_url: https://github.com/Makerspace-Amiens-2026-27/MachineThatDraws2627-Groupe09
+  pages_url: https://makerspace-amiens-2026-27.github.io/MachineThatDraws2627-Groupe09/
+  image_url: /assets/screenshots/makerspace-amiens-2026-27__machinethatdraws2627-groupe09.png
+  topics:
+    - machine-that-draws
+  language: null
+  updated_at: '2026-09-28T13:28:04Z'
