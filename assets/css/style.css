@@ -271,6 +271,7 @@ html.has-navbar-fixed-top {
 .card-tags .tag-year[data-year="2023-24"] { background-color: #c2410c; }
 .card-tags .tag-year[data-year="2024-25"] { background-color: #047857; }
 .card-tags .tag-year[data-year="2025-26"] { background-color: #1d4ed8; }
+.card-tags .tag-year[data-year="2026-27"] { background-color: #7c3aed; }
 
 /* Type de projet : une couleur par topic */
 .card-tags .tag-topic[data-topic="projet-i3"]        { background-color: #8b5cf6; }
