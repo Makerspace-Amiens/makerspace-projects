@@ -765,7 +765,7 @@
   topics:
     - machine-that-draws
   language: null
-  updated_at: '2026-09-28T13:28:24Z'
+  updated_at: '2026-09-30T12:30:00Z'
 - org: Makerspace-Amiens-2026-27
   year: 2026-27
   name: MachineThatDraws2627-Groupe03
@@ -817,7 +817,7 @@
   topics:
     - machine-that-draws
   language: null
-  updated_at: '2026-09-28T15:54:54Z'
+  updated_at: '2026-09-30T12:30:21Z'
 - org: Makerspace-Amiens-2026-27
   year: 2026-27
   name: MachineThatDraws2627-Groupe07
@@ -843,7 +843,7 @@
   topics:
     - machine-that-draws
   language: null
-  updated_at: '2026-09-28T13:28:10Z'
+  updated_at: '2026-09-30T12:30:44Z'
 - org: Makerspace-Amiens-2026-27
   year: 2026-27
   name: MachineThatDraws2627-Groupe09
@@ -856,4 +856,4 @@
   topics:
     - machine-that-draws
   language: null
-  updated_at: '2026-09-28T15:56:30Z'
+  updated_at: '2026-09-30T12:33:17Z'
