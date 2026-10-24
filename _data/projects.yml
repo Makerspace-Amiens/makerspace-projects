@@ -752,7 +752,7 @@
   topics:
     - machine-that-draws
   language: null
-  updated_at: '2026-10-13T15:59:05Z'
+  updated_at: '2026-10-23T09:53:09Z'
 - org: Makerspace-Amiens-2026-27
   year: 2026-27
   name: MachineThatDraws2627-Groupe02
@@ -765,7 +765,7 @@
   topics:
     - machine-that-draws
   language: null
-  updated_at: '2026-10-13T15:56:10Z'
+  updated_at: '2026-10-23T09:53:47Z'
 - org: Makerspace-Amiens-2026-27
   year: 2026-27
   name: MachineThatDraws2627-Groupe03
@@ -778,7 +778,7 @@
   topics:
     - machine-that-draws
   language: null
-  updated_at: '2026-10-13T16:03:50Z'
+  updated_at: '2026-10-23T10:11:18Z'
 - org: Makerspace-Amiens-2026-27
   year: 2026-27
   name: MachineThatDraws2627-Groupe04
@@ -791,7 +791,7 @@
   topics:
     - machine-that-draws
   language: null
-  updated_at: '2026-10-13T15:55:47Z'
+  updated_at: '2026-10-23T12:35:04Z'
 - org: Makerspace-Amiens-2026-27
   year: 2026-27
   name: MachineThatDraws2627-Groupe05
@@ -804,7 +804,7 @@
   topics:
     - machine-that-draws
   language: null
-  updated_at: '2026-10-13T15:07:01Z'
+  updated_at: '2026-10-23T09:58:05Z'
 - org: Makerspace-Amiens-2026-27
   year: 2026-27
   name: MachineThatDraws2627-Groupe06
@@ -817,7 +817,7 @@
   topics:
     - machine-that-draws
   language: null
-  updated_at: '2026-10-21T07:00:09Z'
+  updated_at: '2026-10-23T09:52:32Z'
 - org: Makerspace-Amiens-2026-27
   year: 2026-27
   name: MachineThatDraws2627-Groupe07
@@ -830,7 +830,7 @@
   topics:
     - machine-that-draws
   language: null
-  updated_at: '2026-10-13T16:12:59Z'
+  updated_at: '2026-10-23T10:04:52Z'
 - org: Makerspace-Amiens-2026-27
   year: 2026-27
   name: MachineThatDraws2627-Groupe08
@@ -843,7 +843,7 @@
   topics:
     - machine-that-draws
   language: null
-  updated_at: '2026-10-13T15:31:56Z'
+  updated_at: '2026-10-23T09:55:37Z'
 - org: Makerspace-Amiens-2026-27
   year: 2026-27
   name: MachineThatDraws2627-Groupe09
@@ -856,4 +856,4 @@
   topics:
     - machine-that-draws
   language: null
-  updated_at: '2026-10-12T12:57:45Z'
+  updated_at: '2026-10-23T09:59:16Z'
