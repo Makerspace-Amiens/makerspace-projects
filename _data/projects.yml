@@ -752,7 +752,7 @@
   topics:
     - machine-that-draws
   language: null
-  updated_at: '2026-10-23T09:53:09Z'
+  updated_at: '2026-11-06T10:55:57Z'
 - org: Makerspace-Amiens-2026-27
   year: 2026-27
   name: MachineThatDraws2627-Groupe02
@@ -765,7 +765,7 @@
   topics:
     - machine-that-draws
   language: null
-  updated_at: '2026-10-23T09:53:47Z'
+  updated_at: '2026-11-06T10:52:48Z'
 - org: Makerspace-Amiens-2026-27
   year: 2026-27
   name: MachineThatDraws2627-Groupe03
@@ -777,8 +777,8 @@
   image_url: /assets/screenshots/makerspace-amiens-2026-27__machinethatdraws2627-groupe03.png
   topics:
     - machine-that-draws
-  language: null
-  updated_at: '2026-10-23T10:11:18Z'
+  language: JavaScript
+  updated_at: '2026-11-06T11:20:58Z'
 - org: Makerspace-Amiens-2026-27
   year: 2026-27
   name: MachineThatDraws2627-Groupe04
@@ -791,7 +791,7 @@
   topics:
     - machine-that-draws
   language: null
-  updated_at: '2026-10-23T12:35:04Z'
+  updated_at: '2026-11-06T11:39:08Z'
 - org: Makerspace-Amiens-2026-27
   year: 2026-27
   name: MachineThatDraws2627-Groupe05
@@ -804,7 +804,7 @@
   topics:
     - machine-that-draws
   language: null
-  updated_at: '2026-10-23T09:58:05Z'
+  updated_at: '2026-11-06T10:42:17Z'
 - org: Makerspace-Amiens-2026-27
   year: 2026-27
   name: MachineThatDraws2627-Groupe06
@@ -817,7 +817,7 @@
   topics:
     - machine-that-draws
   language: null
-  updated_at: '2026-10-23T09:52:32Z'
+  updated_at: '2026-11-06T10:57:18Z'
 - org: Makerspace-Amiens-2026-27
   year: 2026-27
   name: MachineThatDraws2627-Groupe07
@@ -830,7 +830,7 @@
   topics:
     - machine-that-draws
   language: null
-  updated_at: '2026-10-23T10:04:52Z'
+  updated_at: '2026-11-06T11:02:52Z'
 - org: Makerspace-Amiens-2026-27
   year: 2026-27
   name: MachineThatDraws2627-Groupe08
@@ -843,7 +843,7 @@
   topics:
     - machine-that-draws
   language: null
-  updated_at: '2026-10-23T09:55:37Z'
+  updated_at: '2026-11-06T10:42:33Z'
 - org: Makerspace-Amiens-2026-27
   year: 2026-27
   name: MachineThatDraws2627-Groupe09
@@ -856,4 +856,4 @@
   topics:
     - machine-that-draws
   language: null
-  updated_at: '2026-11-02T07:44:52Z'
+  updated_at: '2026-11-06T10:56:45Z'
