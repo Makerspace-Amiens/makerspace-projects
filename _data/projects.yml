@@ -879,8 +879,8 @@
   pages_url: https://makerspace-amiens-2026-27.github.io/Microcontroller2627-Groupe10/
   image_url: /assets/screenshots/makerspace-amiens-2026-27__microcontroller2627-groupe10.png
   topics: []
-  language: null
-  updated_at: '2026-11-13T08:43:28Z'
+  language: C++
+  updated_at: '2026-11-18T16:16:56Z'
 - org: Makerspace-Amiens-2026-27
   year: 2026-27
   name: Microcontroller2627-Groupe11
@@ -915,8 +915,8 @@
   pages_url: https://makerspace-amiens-2026-27.github.io/Microcontroller2627-Groupe13/
   image_url: /assets/screenshots/makerspace-amiens-2026-27__microcontroller2627-groupe13.png
   topics: []
-  language: null
-  updated_at: '2026-11-13T08:43:41Z'
+  language: C++
+  updated_at: '2026-11-18T16:02:17Z'
 - org: Makerspace-Amiens-2026-27
   year: 2026-27
   name: Microcontroller2627-Groupe14
@@ -1008,11 +1008,11 @@
   display_name: Microcontroller2627 - Groupe 20
   description: null
   repo_url: https://github.com/Makerspace-Amiens-2026-27/Microcontroller2627-Groupe20
-  pages_url: null
+  pages_url: https://makerspace-amiens-2026-27.github.io/Microcontroller2627-Groupe20/
   image_url: /assets/screenshots/makerspace-amiens-2026-27__microcontroller2627-groupe20.png
   topics: []
   language: null
-  updated_at: '2026-11-13T08:33:53Z'
+  updated_at: '2026-11-18T14:40:24Z'
 - org: Makerspace-Amiens-2026-27
   year: 2026-27
   name: Microcontroller2627-Groupe21
@@ -1020,11 +1020,11 @@
   display_name: Microcontroller2627 - Groupe 21
   description: null
   repo_url: https://github.com/Makerspace-Amiens-2026-27/Microcontroller2627-Groupe21
-  pages_url: null
+  pages_url: https://makerspace-amiens-2026-27.github.io/Microcontroller2627-Groupe21/
   image_url: /assets/screenshots/makerspace-amiens-2026-27__microcontroller2627-groupe21.png
   topics: []
   language: null
-  updated_at: '2026-11-13T08:35:47Z'
+  updated_at: '2026-11-18T14:40:28Z'
 - org: Makerspace-Amiens-2026-27
   year: 2026-27
   name: Microcontroller2627-Groupe22
@@ -1032,11 +1032,11 @@
   display_name: Microcontroller2627 - Groupe 22
   description: null
   repo_url: https://github.com/Makerspace-Amiens-2026-27/Microcontroller2627-Groupe22
-  pages_url: null
+  pages_url: https://makerspace-amiens-2026-27.github.io/Microcontroller2627-Groupe22/
   image_url: /assets/screenshots/makerspace-amiens-2026-27__microcontroller2627-groupe22.png
   topics: []
   language: null
-  updated_at: '2026-11-13T08:43:34Z'
+  updated_at: '2026-11-18T14:40:33Z'
 - org: Makerspace-Amiens-2026-27
   year: 2026-27
   name: Microcontroller2627-Groupe23
@@ -1044,11 +1044,11 @@
   display_name: Microcontroller2627 - Groupe 23
   description: null
   repo_url: https://github.com/Makerspace-Amiens-2026-27/Microcontroller2627-Groupe23
-  pages_url: null
+  pages_url: https://makerspace-amiens-2026-27.github.io/Microcontroller2627-Groupe23/
   image_url: /assets/screenshots/makerspace-amiens-2026-27__microcontroller2627-groupe23.png
   topics: []
   language: null
-  updated_at: '2026-11-13T08:46:50Z'
+  updated_at: '2026-11-18T14:40:41Z'
 - org: Makerspace-Amiens-2026-27
   year: 2026-27
   name: Microcontroller2627-Groupe24
@@ -1056,11 +1056,35 @@
   display_name: Microcontroller2627 - Groupe 24
   description: null
   repo_url: https://github.com/Makerspace-Amiens-2026-27/Microcontroller2627-Groupe24
-  pages_url: null
+  pages_url: https://makerspace-amiens-2026-27.github.io/Microcontroller2627-Groupe24/
   image_url: /assets/screenshots/makerspace-amiens-2026-27__microcontroller2627-groupe24.png
   topics: []
   language: null
-  updated_at: '2026-11-13T09:12:55Z'
+  updated_at: '2026-11-18T14:40:37Z'
+- org: Makerspace-Amiens-2026-27
+  year: 2026-27
+  name: Microcontroller2627-Groupe25
+  group: '25'
+  display_name: Microcontroller2627 - Groupe 25
+  description: null
+  repo_url: https://github.com/Makerspace-Amiens-2026-27/Microcontroller2627-Groupe25
+  pages_url: https://makerspace-amiens-2026-27.github.io/Microcontroller2627-Groupe25/
+  image_url: /assets/screenshots/makerspace-amiens-2026-27__microcontroller2627-groupe25.png
+  topics: []
+  language: null
+  updated_at: '2026-11-18T16:09:14Z'
+- org: Makerspace-Amiens-2026-27
+  year: 2026-27
+  name: Microcontroller2627-Groupe26
+  group: '26'
+  display_name: Microcontroller2627 - Groupe 26
+  description: null
+  repo_url: https://github.com/Makerspace-Amiens-2026-27/Microcontroller2627-Groupe26
+  pages_url: https://makerspace-amiens-2026-27.github.io/Microcontroller2627-Groupe26/
+  image_url: /assets/screenshots/makerspace-amiens-2026-27__microcontroller2627-groupe26.png
+  topics: []
+  language: null
+  updated_at: '2026-11-18T16:26:13Z'
 - org: Makerspace-Amiens-2026-27
   year: 2026-27
   name: Microcontroller2627-Groupe3
@@ -1083,8 +1107,8 @@
   pages_url: https://makerspace-amiens-2026-27.github.io/Microcontroller2627-Groupe4/
   image_url: /assets/screenshots/makerspace-amiens-2026-27__microcontroller2627-groupe4.png
   topics: []
-  language: null
-  updated_at: '2026-11-13T08:44:19Z'
+  language: C++
+  updated_at: '2026-11-18T16:40:29Z'
 - org: Makerspace-Amiens-2026-27
   year: 2026-27
   name: Microcontroller2627-Groupe5
@@ -1095,8 +1119,8 @@
   pages_url: https://makerspace-amiens-2026-27.github.io/Microcontroller2627-Groupe5/
   image_url: /assets/screenshots/makerspace-amiens-2026-27__microcontroller2627-groupe5.png
   topics: []
-  language: null
-  updated_at: '2026-11-13T08:44:23Z'
+  language: C++
+  updated_at: '2026-11-18T16:10:28Z'
 - org: Makerspace-Amiens-2026-27
   year: 2026-27
   name: Microcontroller2627-Groupe6
